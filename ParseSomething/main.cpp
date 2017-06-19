@@ -40,7 +40,44 @@ int main(int argc, const char * argv[]) {
             nextIsUpper = false;
         }
 
-        std::cout << camelCase.str() << std::endl;
+        std::stringstream upperCase;
+
+        for( auto c = name.cbegin(); c != name.cend(); ++c )
+        {
+            if( *c == '.' || *c == '-' )
+            {
+                upperCase << "_";
+                continue;
+            }
+            else
+            {
+                upperCase << static_cast<char>( std::toupper( ( *c ) ) );
+            }
+        }
+
+//        std::cout << "ZEUS_ENUM_VALUE( "
+//        << upperCase.str()
+//        << ", \""
+//        << name
+//        << "\" ) \\"
+//        << std::endl;
+
+        std::cout << "std::make_pair<komp::SoundID, mx::api::SoundID>(komp::SoundID::"
+        << upperCase.str()
+        << ", mx::api::SoundID::"
+        << camelCase.str()
+        << "),"
+        << std::endl;
+
+//        std::cout << "    "
+//        << camelCase.str()
+//        << "," << std::endl;
+
+//        std::cout << "std::pair<core::PlaybackSound, api::InstrumentSound>{ core::PlaybackSound::"
+//        << camelCase.str() << ", api::InstrumentSound::"
+//        << camelCase.str() << " },"
+//        << std::endl;
+
     }
     return 0;
 }
