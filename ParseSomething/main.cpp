@@ -18,6 +18,7 @@
 const char* const inMusicXmlSoundsFilepath = "/Users/mjb/Dropbox/Programming/MxRepo/Documents/DevNotes/MusicXMLSounds.xml";
 const char* const inFilepathMidiRef = "/Users/mjb/komp/Resources/Documents/DevNotes/GeneralMidiReference.xml";
 const char* const inFilepathGmPrioritySort = "/Users/mjb/komp/Resources/Documents/DevNotes/generalMidiPrioritySort.xml";
+const char* const inFilepathGmRef = "/Users/mjb/komp/Resources/Documents/DevNotes/GeneralMidiReference.xml";
 
 struct GmToInstrument
 {
