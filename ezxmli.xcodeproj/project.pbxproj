@@ -93,6 +93,8 @@
 		293D7B781EC2A31100D9990B /* XThrow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XThrow.h; sourceTree = "<group>"; };
 		293D7BA11EC2A51800D9990B /* libezxmliOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libezxmliOS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		293D7BB71EC2A56F00D9990B /* libezxmlOSX.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libezxmlOSX.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		296C5F1C1EF88387007EF77E /* Algomation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algomation.h; sourceTree = "<group>"; };
+		296C5F1D1EF883E1007EF77E /* StringDistance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StringDistance.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,8 @@
 			isa = PBXGroup;
 			children = (
 				2931A4F51EEF727E002979C2 /* main.cpp */,
+				296C5F1C1EF88387007EF77E /* Algomation.h */,
+				296C5F1D1EF883E1007EF77E /* StringDistance.h */,
 			);
 			path = ParseSomething;
 			sourceTree = "<group>";
@@ -549,6 +553,7 @@
 				2931A4F81EEF727E002979C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		293D7B471EC2A2E000D9990B /* Build configuration list for PBXProject "ezxmli" */ = {
 			isa = XCConfigurationList;
