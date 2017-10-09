@@ -9,10 +9,11 @@
 #include <iostream>
 #include "ezxml/ezxml.h"
 
-int main(int argc, const char * argv[]) {
+int main(int argc, const char * argv[])
+{
     using namespace ezxml;
     auto xdoc = XFactory::makeXDoc();
-    xdoc->loadFile( "/Users/mjb/Dropbox/Programming/MxRepo/Documents/DevNotes/MusicXML Standard Sounds.xml" );
+    xdoc->loadFile(  );
     const auto root = xdoc->getRoot();
     auto iter = root->begin();
     const auto e = root->end();
