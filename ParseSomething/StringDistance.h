@@ -23,7 +23,7 @@ namespace x
         return bigrams;
     }
 
-    // 1 means completely
+
     inline double getDistance( const std::string& inLeft, const std::string& inRight, bool isCaseSensitive = false )
     {
         std::string left = inLeft;
@@ -34,6 +34,8 @@ namespace x
             std::transform(left.begin(), left.end(), left.begin(), ::toupper);
             std::transform(right.begin(), right.end(), right.begin(), ::toupper);
         }
+
+        // remove anything that is not a letter
 
         auto lbigrams = getBigrams( left );
         auto rbigrams = getBigrams( right );
