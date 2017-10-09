@@ -9,76 +9,115 @@
 #include <iostream>
 #include "ezxml/ezxml.h"
 
+struct Req
+{
+    std::string name;
+    std::string type;
+    std::string story;
+    std::string uiPoints;
+    std::string backendPoints;
+    std::string integPoints;
+};
+
+struct Image
+{
+    std::string filename;
+    std::string border;
+    std::string width;
+};
+
+struct CompositionEntry
+{
+    bool isImage;
+    Image image;
+    std::string text;
+};
+
+struct Composition
+{
+    std::vector<CompositionEntry> compositionEntries;
+};
+
+struct RequirementsData
+{
+    Composition intro;
+    std::vector<Req> reqs;
+    Composition outro;
+}
+
 int main(int argc, const char * argv[])
 {
     using namespace ezxml;
     auto xdoc = XFactory::makeXDoc();
-    xdoc->loadFile(  );
+    xdoc->loadFile( "/Users/mjb/iqreq/data/requirements.xml" );
     const auto root = xdoc->getRoot();
-    auto iter = root->begin();
-    const auto e = root->end();
+    auto rootIter = root->begin();
+    const auto rootEnd = root->end();
 
-    for( ; iter != e; ++iter )
+//    auto newdoc = XFactory::makeXDoc();
+//    newdoc->setXmlVersion( xdoc->getXmlVersion() );
+//    newdoc->setEncoding( xdoc->getEncoding() );
+//    newdoc->setHasDoctypeDeclaration( false );
+//    auto newRoot = newdoc->getRoot();
+//    newRoot->setName( "document" );
+//    newRoot->appendAttribute( "xmlns" )->setValue( "requirements" );
+//    newRoot->appendAttribute( "xmlns:xsi" )->setValue( "http://www.w3.org/2001/XMLSchema-instance" );
+//    newRoot->appendAttribute( "xsi:schemaLocation" )->setValue( "http://fakeurl.com requirements.xsd" );
+
+    for( ; rootIter != rootEnd; ++rootIter )
     {
-        const std::string name = iter->attributesBegin()->getValue();
-        std::stringstream camelCase;
-        bool nextIsUpper = false;
-        for( auto c = name.cbegin(); c != name.cend(); ++c )
+        if( rootIter->getName() == "document-body" )
         {
-            if( *c == '.' || *c == '-' )
+            const auto documentBodyElement = rootIter;
+            auto docBodyIter = documentBodyElement->begin();
+            const auto docBodyEnd = documentBodyElement->end();
+
+            for( ; docBodyIter != docBodyEnd; ++docBodyIter )
             {
-                nextIsUpper = true;
-                continue;
+                if( docBodyIter->getName() != "epic" ) { throw std::runtime_error{ "bad element" }; }
+                const auto epicElement = docBodyIter;
+                auto epicIter = epicElement->begin();
+                const auto epicEnd = epicElement->end();
+
+                for( ; epicIter != epicEnd; ++epicIter )
+                {
+                    if( epicIter->getName() == "groups" )
+                    {
+                        const auto groupsElement = epicIter;
+                        auto groupsIter = groupsElement->begin();
+                        const auto groupsEnd = groupsElement->end();
+
+                        for( ; groupsIter != groupsEnd; ++groupsIter )
+                        {
+                            if( groupsIter->getName() != "group" ) { throw std::runtime_error{ "bad element" }; }
+                            const auto groupElement = groupsIter;
+                            auto groupIter = groupElement->begin();
+                            const auto groupEnd = groupElement->end();
+                            bool isFirst = true;
+                            RequirementsData data;
+
+                            for( ; groupIter != groupEnd; ++groupIter )
+                            {
+                                if( isFirst )
+                                {
+                                    isFirst = false;
+                                    if( groupIter->getName() == "composition" )
+                                    {
+                                        data.intro.isImage = groupIter->begin()->getName()
+                                    }
+                                }
+                                std::cout << groupIter->getName() << std::endl;
+                                
+                            }
+                        }
+                    }
+                }
             }
-            else if( nextIsUpper )
-            {
-                camelCase << static_cast<char>( std::toupper( ( *c ) ) );
-            }
-            else
-            {
-                camelCase << ( *c );
-            }
-            nextIsUpper = false;
         }
-
-        std::stringstream upperCase;
-
-        for( auto c = name.cbegin(); c != name.cend(); ++c )
-        {
-            if( *c == '.' || *c == '-' )
-            {
-                upperCase << "_";
-                continue;
-            }
-            else
-            {
-                upperCase << static_cast<char>( std::toupper( ( *c ) ) );
-            }
-        }
-
-//        std::cout << "ZEUS_ENUM_VALUE( "
-//        << upperCase.str()
-//        << ", \""
-//        << name
-//        << "\" ) \\"
-//        << std::endl;
-
-        std::cout << "std::make_pair<komp::SoundID, mx::api::SoundID>(komp::SoundID::"
-        << upperCase.str()
-        << ", mx::api::SoundID::"
-        << camelCase.str()
-        << "),"
-        << std::endl;
-
-//        std::cout << "    "
-//        << camelCase.str()
-//        << "," << std::endl;
-
-//        std::cout << "std::pair<core::PlaybackSound, api::InstrumentSound>{ core::PlaybackSound::"
-//        << camelCase.str() << ", api::InstrumentSound::"
-//        << camelCase.str() << " },"
-//        << std::endl;
-
     }
+
+    std::stringstream ss;
+    newdoc->saveStream( ss );
+    std::cout << ss.str() << std::endl;
     return 0;
 }
