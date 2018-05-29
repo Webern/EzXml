@@ -3,7 +3,7 @@
 #pragma once
 
 #include "ezxml/XElementIterator.h"
-#include "src/XElementIterImpl.h"
+#include "ezxml/XElementIterImpl.h"
 #include "ezxml/XDoc.h"
 #include "src/PugiElement.h"
 #include "src/pugixml.hpp"

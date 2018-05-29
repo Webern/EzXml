@@ -3,7 +3,7 @@
 #pragma once
 
 #include "ezxml/XElement.h"
-#include "src/XElementIterImpl.h"
+#include "ezxml/XElementIterImpl.h"
 
 #include <iostream>
 #include <memory>

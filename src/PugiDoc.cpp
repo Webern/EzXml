@@ -3,6 +3,7 @@
 #include "src/PugiDoc.h"
 #include "src/PugiElement.h"
 #include "src/Throw.h"
+#include "src/Parse.h"
 
 #include <fstream>
 

@@ -3,7 +3,7 @@
 #pragma once
 
 #include "ezxml/XAttributeIterator.h"
-#include "src/XAttributeIterImpl.h"
+#include "ezxml/XAttributeIterImpl.h"
 #include "src/PugiAttribute.h"
 #include "src/pugixml.hpp"
 

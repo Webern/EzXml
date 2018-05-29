@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "293D7BA01EC2A51800D9990B"
-               BuildableName = "libezxmliOS.a"
-               BlueprintName = "ezxmliOS"
-               ReferencedContainer = "container:ezxmli.xcodeproj">
+               BlueprintIdentifier = "29CA498720BCED8100F0B643"
+               BuildableName = "libezxml.a"
+               BlueprintName = "ezxml"
+               ReferencedContainer = "container:ezxml.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "293D7BA01EC2A51800D9990B"
-            BuildableName = "libezxmliOS.a"
-            BlueprintName = "ezxmliOS"
-            ReferencedContainer = "container:ezxmli.xcodeproj">
+            BlueprintIdentifier = "29CA498720BCED8100F0B643"
+            BuildableName = "libezxml.a"
+            BlueprintName = "ezxml"
+            ReferencedContainer = "container:ezxml.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "293D7BA01EC2A51800D9990B"
-            BuildableName = "libezxmliOS.a"
-            BlueprintName = "ezxmliOS"
-            ReferencedContainer = "container:ezxmli.xcodeproj">
+            BlueprintIdentifier = "29CA498720BCED8100F0B643"
+            BuildableName = "libezxml.a"
+            BlueprintName = "ezxml"
+            ReferencedContainer = "container:ezxml.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -2,7 +2,7 @@
 
 #include "src/PugiElement.h"
 #include "src/PugiElementIterImpl.h"
-#include "src/XAttributeIterImpl.h"
+#include "ezxml/XAttributeIterImpl.h"
 #include "src/PugiAttributeIterImpl.h"
 #include "src/XThrow.h"
 

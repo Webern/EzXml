@@ -1,7 +1,6 @@
 // Copyright (c) Matthew James Briggs
 
 #pragma once
-#include "src/Parse.h"
 
 #include <string>
 #include <sstream>
@@ -49,12 +48,12 @@ namespace ezxml
 
     inline XmlVersion parseXmlVersion( const std::string& str )
     {
-        if( compareCaseInsensitive( str, "1.0" ) )
+        if( str == "1.0" )
         {
             return XmlVersion::onePointZero;
         }
         
-        if( compareCaseInsensitive( str, "1.1" ) )
+        if( str == "1.1" )
         {
             return XmlVersion::onePointOne;
         }
@@ -103,11 +102,14 @@ namespace ezxml
 
     inline Encoding parseEncoding( const std::string& str )
     {
-        if( compareCaseInsensitive( str, "UTF-8" ) )
+        auto lowerStr = str;
+        std::transform(lowerStr.begin(), lowerStr.end(), lowerStr.begin(), ::tolower);
+        
+        if( lowerStr == "utf-8" )
         {
             return Encoding::utfEight;
         }
-        if( compareCaseInsensitive( str, "UTF-16" ) )
+        if( lowerStr == "utf-16" )
         {
             return Encoding::utfSixteen;
         }
