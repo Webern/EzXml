@@ -200,7 +200,8 @@ namespace ezxml
         std::ifstream infile( filename.c_str() );
         if( !infile.is_open() )
         {
-            throw std::runtime_error( "error opening input file" );
+            std::string message = std::string{ "error opening input file: " } + filename;
+            throw std::runtime_error( message );
         }
         
         loadStream( infile );
@@ -213,7 +214,8 @@ namespace ezxml
         std::ofstream outfile( filename.c_str() );
         if( !outfile.is_open() )
         {
-            throw std::runtime_error( "error opening file for writing" );
+            std::string message = std::string{ "error opening file for writing: " } + filename;
+            throw std::runtime_error( message );
         }
         
         saveStream( outfile );
