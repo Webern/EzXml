@@ -41,5 +41,8 @@ namespace ezxml
         std::string myArrayItemElement;
         std::string myRootElement;
         XDocPtr myXDoc;
+
+    private:
+        void convert( XElementPtr& xparent, const rapidjson::Value& jvalToAdd );
     };
 }
