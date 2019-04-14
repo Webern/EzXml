@@ -13,12 +13,12 @@
 namespace ezxml
 {
     JDocImpl::JDocImpl(
+        std::string inRootElement,
         std::string inAttributePrefix,
-        std::string inArrayItemElement,
-        std::string inRootElement )
-    : myAttributePrefix{ std::move( inAttributePrefix ) }
+        std::string inArrayItemElement )
+    : myRootElement( std::move( inRootElement ) )
+    , myAttributePrefix{ std::move( inAttributePrefix ) }
     , myArrayItemElement{ std::move( inArrayItemElement ) }
-    , myRootElement( std::move( inRootElement ) )
     , myXDoc{ nullptr }
     {
 

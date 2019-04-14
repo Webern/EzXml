@@ -11,7 +11,11 @@ namespace ezxml
     class XFactory
     {
     public:
-        static JDocPtr makeJDoc();
+        static JDocPtr makeJDoc(
+            std::string inRootElement,
+            std::string inAttributePrefix,
+            std::string inArrayItemElement );
+
         static XDocPtr makeXDoc();
         static XElementPtr makeXElement();
     };

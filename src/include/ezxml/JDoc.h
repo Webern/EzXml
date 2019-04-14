@@ -16,7 +16,7 @@ namespace ezxml
 
     // JDoc reads and writes JSON which can be translated to and from XML.
     // In order to support lossless round-tripping between XML and JSON,
-    // JDoc takes an arument named 'inAttributePrefix' upon construction.
+    // JDoc takes an argument named 'inAttributePrefix' upon construction.
     // This will be prefixed to attributes to distinguish them from
     // elements in JSON. Also required is 'inArrayItemElement' which is
     // the element name that will be used for nameless JSON array items.

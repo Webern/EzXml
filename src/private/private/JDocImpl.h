@@ -6,6 +6,7 @@
 
 #include <iostream>
 #include <memory>
+#include "rapidjson/document.h"
 
 namespace ezxml
 {
@@ -13,9 +14,9 @@ namespace ezxml
     {
     public:
         virtual ~JDocImpl() = default;
-        JDocImpl( std::string inAttributePrefix,
-                  std::string inArrayItemElement,
-                  std::string inRootElement );
+        JDocImpl( std::string inRootElement,
+                  std::string inAttributePrefix,
+                  std::string inArrayItemElement );
 
         // these can throw std::runtime_error
         virtual void loadStream( std::istream& is ) override;
@@ -37,9 +38,9 @@ namespace ezxml
         virtual XElementPtr getRoot() const override;
     
     private:
+        std::string myRootElement;
         std::string myAttributePrefix;
         std::string myArrayItemElement;
-        std::string myRootElement;
         XDocPtr myXDoc;
 
     private:
