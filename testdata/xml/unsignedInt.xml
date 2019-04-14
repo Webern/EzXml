@@ -1,0 +1,2939 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE NISTXMLSchemaTypeTests [
+
+<!ELEMENT NISTXMLSchemaTypeTests (Type)>
+
+  <!ATTLIST NISTXMLSchemaTypeTests xml:base CDATA #REQUIRED>
+
+<!ELEMENT Type (Notes, Facet*)>
+
+  <!ATTLIST Type Name CDATA #REQUIRED>
+  <!ATTLIST Type href CDATA #REQUIRED>
+
+<!ELEMENT Notes (#PCDATA)>
+
+<!ELEMENT Facet (Notes, Schema*)>
+
+  <!ATTLIST Facet Name CDATA #REQUIRED>
+  <!ATTLIST Facet href CDATA #REQUIRED>
+
+<!ELEMENT Schema (Notes, Instance*)>
+
+  <!ATTLIST Schema name CDATA #REQUIRED>
+  <!ATTLIST Schema href CDATA #REQUIRED>
+
+<!ELEMENT Instance (Notes)>
+
+  <!ATTLIST Instance name CDATA #REQUIRED>
+  <!ATTLIST Instance href CDATA #REQUIRED>
+
+]>
+
+<NISTXMLSchemaTypeTests xml:base="">
+
+<Type Name="unsignedInt" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#unsignedInt">
+
+<Notes>
+This local type is as decribed in the Recommendation.
+
+</Notes>
+
+<Facet Name="minExclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-minExclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-minExclusive-1" href="NISTSchema-unsignedInt-minExclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-1-1" href="NISTXML-unsignedInt-minExclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-1-2" href="NISTXML-unsignedInt-minExclusive-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-1-3" href="NISTXML-unsignedInt-minExclusive-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-1-4" href="NISTXML-unsignedInt-minExclusive-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-1-5" href="NISTXML-unsignedInt-minExclusive-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minExclusive-2" href="NISTSchema-unsignedInt-minExclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-2-1" href="NISTXML-unsignedInt-minExclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-2-2" href="NISTXML-unsignedInt-minExclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-2-3" href="NISTXML-unsignedInt-minExclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-2-4" href="NISTXML-unsignedInt-minExclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-2-5" href="NISTXML-unsignedInt-minExclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minExclusive-3" href="NISTSchema-unsignedInt-minExclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-3-1" href="NISTXML-unsignedInt-minExclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-3-2" href="NISTXML-unsignedInt-minExclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-3-3" href="NISTXML-unsignedInt-minExclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-3-4" href="NISTXML-unsignedInt-minExclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-3-5" href="NISTXML-unsignedInt-minExclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minExclusive-4" href="NISTSchema-unsignedInt-minExclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-4-1" href="NISTXML-unsignedInt-minExclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-4-2" href="NISTXML-unsignedInt-minExclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-4-3" href="NISTXML-unsignedInt-minExclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-4-4" href="NISTXML-unsignedInt-minExclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-4-5" href="NISTXML-unsignedInt-minExclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minExclusive-5" href="NISTSchema-unsignedInt-minExclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 4294967294
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minExclusive-5-1" href="NISTXML-unsignedInt-minExclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minExclusive-5-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-unsignedInt-minExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="minInclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-minInclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-minInclusive-1" href="NISTSchema-unsignedInt-minInclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-1-1" href="NISTXML-unsignedInt-minInclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-1-2" href="NISTXML-unsignedInt-minInclusive-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-1-3" href="NISTXML-unsignedInt-minInclusive-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-1-4" href="NISTXML-unsignedInt-minInclusive-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-1-5" href="NISTXML-unsignedInt-minInclusive-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minInclusive-2" href="NISTSchema-unsignedInt-minInclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-2-1" href="NISTXML-unsignedInt-minInclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-2-2" href="NISTXML-unsignedInt-minInclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-2-3" href="NISTXML-unsignedInt-minInclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-2-4" href="NISTXML-unsignedInt-minInclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-2-5" href="NISTXML-unsignedInt-minInclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minInclusive-3" href="NISTSchema-unsignedInt-minInclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-3-1" href="NISTXML-unsignedInt-minInclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-3-2" href="NISTXML-unsignedInt-minInclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-3-3" href="NISTXML-unsignedInt-minInclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-3-4" href="NISTXML-unsignedInt-minInclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-3-5" href="NISTXML-unsignedInt-minInclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minInclusive-4" href="NISTSchema-unsignedInt-minInclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-4-1" href="NISTXML-unsignedInt-minInclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-4-2" href="NISTXML-unsignedInt-minInclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-4-3" href="NISTXML-unsignedInt-minInclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-4-4" href="NISTXML-unsignedInt-minInclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-4-5" href="NISTXML-unsignedInt-minInclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-minInclusive-5" href="NISTSchema-unsignedInt-minInclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 4294967295
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-minInclusive-5-1" href="NISTXML-unsignedInt-minInclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-minInclusive-5-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-unsignedInt-minInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="maxExclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-maxExclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-maxExclusive-1" href="NISTSchema-unsignedInt-maxExclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-1-1" href="NISTXML-unsignedInt-maxExclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-1-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxExclusive-2" href="NISTSchema-unsignedInt-maxExclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-2-1" href="NISTXML-unsignedInt-maxExclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-2-2" href="NISTXML-unsignedInt-maxExclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-2-3" href="NISTXML-unsignedInt-maxExclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-2-4" href="NISTXML-unsignedInt-maxExclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-2-5" href="NISTXML-unsignedInt-maxExclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxExclusive-3" href="NISTSchema-unsignedInt-maxExclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-3-1" href="NISTXML-unsignedInt-maxExclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-3-2" href="NISTXML-unsignedInt-maxExclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-3-3" href="NISTXML-unsignedInt-maxExclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-3-4" href="NISTXML-unsignedInt-maxExclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-3-5" href="NISTXML-unsignedInt-maxExclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxExclusive-4" href="NISTSchema-unsignedInt-maxExclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-4-1" href="NISTXML-unsignedInt-maxExclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-4-2" href="NISTXML-unsignedInt-maxExclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-4-3" href="NISTXML-unsignedInt-maxExclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-4-4" href="NISTXML-unsignedInt-maxExclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-4-5" href="NISTXML-unsignedInt-maxExclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxExclusive-5" href="NISTSchema-unsignedInt-maxExclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-5-1" href="NISTXML-unsignedInt-maxExclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-5-2" href="NISTXML-unsignedInt-maxExclusive-5-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-5-3" href="NISTXML-unsignedInt-maxExclusive-5-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-5-4" href="NISTXML-unsignedInt-maxExclusive-5-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxExclusive-5-5" href="NISTXML-unsignedInt-maxExclusive-5-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxExclusive-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="maxInclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-maxInclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-maxInclusive-1" href="NISTSchema-unsignedInt-maxInclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 0
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-1-1" href="NISTXML-unsignedInt-maxInclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-1-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxInclusive-2" href="NISTSchema-unsignedInt-maxInclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-2-1" href="NISTXML-unsignedInt-maxInclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-2-2" href="NISTXML-unsignedInt-maxInclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-2-3" href="NISTXML-unsignedInt-maxInclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-2-4" href="NISTXML-unsignedInt-maxInclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-2-5" href="NISTXML-unsignedInt-maxInclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxInclusive-3" href="NISTSchema-unsignedInt-maxInclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-3-1" href="NISTXML-unsignedInt-maxInclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-3-2" href="NISTXML-unsignedInt-maxInclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-3-3" href="NISTXML-unsignedInt-maxInclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-3-4" href="NISTXML-unsignedInt-maxInclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-3-5" href="NISTXML-unsignedInt-maxInclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxInclusive-4" href="NISTSchema-unsignedInt-maxInclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-4-1" href="NISTXML-unsignedInt-maxInclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-4-2" href="NISTXML-unsignedInt-maxInclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-4-3" href="NISTXML-unsignedInt-maxInclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-4-4" href="NISTXML-unsignedInt-maxInclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-4-5" href="NISTXML-unsignedInt-maxInclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-maxInclusive-5" href="NISTSchema-unsignedInt-maxInclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-5-1" href="NISTXML-unsignedInt-maxInclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-5-2" href="NISTXML-unsignedInt-maxInclusive-5-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-5-3" href="NISTXML-unsignedInt-maxInclusive-5-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-5-4" href="NISTXML-unsignedInt-maxInclusive-5-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-maxInclusive-5-5" href="NISTXML-unsignedInt-maxInclusive-5-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-maxInclusive-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="fractionDigits" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-fractionDigits">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-fractionDigits-1" href="NISTSchema-unsignedInt-fractionDigits-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-fractionDigits-1-1" href="NISTXML-unsignedInt-fractionDigits-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-fractionDigits-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-fractionDigits-1-2" href="NISTXML-unsignedInt-fractionDigits-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-fractionDigits-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-fractionDigits-1-3" href="NISTXML-unsignedInt-fractionDigits-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-fractionDigits-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-fractionDigits-1-4" href="NISTXML-unsignedInt-fractionDigits-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-fractionDigits-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-fractionDigits-1-5" href="NISTXML-unsignedInt-fractionDigits-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-fractionDigits-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="totalDigits" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-totalDigits">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-totalDigits-1" href="NISTSchema-unsignedInt-totalDigits-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-1-1" href="NISTXML-unsignedInt-totalDigits-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-1-2" href="NISTXML-unsignedInt-totalDigits-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-1-3" href="NISTXML-unsignedInt-totalDigits-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-1-4" href="NISTXML-unsignedInt-totalDigits-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-1-5" href="NISTXML-unsignedInt-totalDigits-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-totalDigits-2" href="NISTSchema-unsignedInt-totalDigits-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-2-1" href="NISTXML-unsignedInt-totalDigits-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-2-2" href="NISTXML-unsignedInt-totalDigits-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-2-3" href="NISTXML-unsignedInt-totalDigits-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-2-4" href="NISTXML-unsignedInt-totalDigits-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-2-5" href="NISTXML-unsignedInt-totalDigits-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-totalDigits-3" href="NISTSchema-unsignedInt-totalDigits-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-3-1" href="NISTXML-unsignedInt-totalDigits-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-3-2" href="NISTXML-unsignedInt-totalDigits-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-3-3" href="NISTXML-unsignedInt-totalDigits-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-3-4" href="NISTXML-unsignedInt-totalDigits-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-3-5" href="NISTXML-unsignedInt-totalDigits-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-totalDigits-4" href="NISTSchema-unsignedInt-totalDigits-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-4-1" href="NISTXML-unsignedInt-totalDigits-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-4-2" href="NISTXML-unsignedInt-totalDigits-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-4-3" href="NISTXML-unsignedInt-totalDigits-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-4-4" href="NISTXML-unsignedInt-totalDigits-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-4-5" href="NISTXML-unsignedInt-totalDigits-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-totalDigits-5" href="NISTSchema-unsignedInt-totalDigits-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-5-1" href="NISTXML-unsignedInt-totalDigits-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-5-2" href="NISTXML-unsignedInt-totalDigits-5-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-5-3" href="NISTXML-unsignedInt-totalDigits-5-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-5-4" href="NISTXML-unsignedInt-totalDigits-5-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-totalDigits-5-5" href="NISTXML-unsignedInt-totalDigits-5-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-totalDigits-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="pattern" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-pattern">
+
+<Notes>
+The generalized regular expressions from which pattern specifications are derived
+for the various types are as follows:
+
+decimal::= \-?\d{0,t-f}(\.\d{1,f})?
+	Where:
+	\- is the optional negative sign
+	\d is any digit (same as [0-9]);
+ 	\. represents the decimal point;
+	t is the total number of digits in the string (ie the value of the totalDigits facet);
+	f is the number of digits in the fractional part of the number (ie the value of
+	the fractionDigits facet).
+
+	This pattern applies to decimal and all its derivatives, in combination with any
+        	further constraints (e.g. for integer, fractionDigits must == 0).
+
+gYear::= [1970-2030]
+
+gYearMonth::= gYear \-((0,[1-9]) | (1,[0-2]))
+
+date::= gYearMonth \-(([0-2],[0-9])|(3,[0-1]))
+
+                Note: Dates such as February 31 are disallowed.
+
+time::= (([0-1],[0-9])|(2,[0-3])) ':' ([0-5],[0-9]) ':' ([0-5],[0-9])
+
+dateTime::= date 'T' time
+
+                Note: Dates such as February 31 are disallowed.
+
+gMonthDay::= \-\-((0,[1-9]) | (1,[0-2]))\-(([0-2],[0-9])|(3,[0-1]))
+
+gDay::= \-\-\-(([0-2],[0-9])|(3,[0-1]))
+
+gMonth::= \-\-((0,[1-9]) | (1,[0-2]))\-\-
+
+duration::= 'P' [1970-2030] 'Y' ((0,[1-9]) | (1,[0-2])) 'M' (([0-2],[0-9])|(3,[0-1])) 'DT' (([0-1],[0-9])|(2,[0-3])) 'H' ([0-5],[0-9]) 'M' ([0-5],[0-9]) 'S'
+
+double::= decimal 'E' [(-1075)-970]
+
+float::= decimal 'E' [(-149)-104]
+
+string::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' \n([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+normalizedString::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' ([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+
+token::= normalizedString
+
+language::= ([a-zA-Z]{2}|[iI]-[a-zA-Z]+|[xX]-[a-zA-Z]{1, 8})(-[a-zA-Z]{1, 8})*
+
+Name::= \i\c*
+
+NCName::= Name
+
+	Note: ":" is disallowed.
+
+ID::= NCName
+
+boolean::= [0|1|true|false]
+
+base64Binary::= [a-zA-Z0-9+/]+
+
+hexBinary::= [0-9A-F]+
+
+anyURI::= [http://|http://www.|ftp://|ftp://ftp.|telnet://|gopher://](\c+)[.com|.edu|.org|.gov]
+
+QName::= (NCName ':')?NCName
+
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-pattern-1" href="NISTSchema-unsignedInt-pattern-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-pattern-1-1" href="NISTXML-unsignedInt-pattern-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-1-2" href="NISTXML-unsignedInt-pattern-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-1-3" href="NISTXML-unsignedInt-pattern-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-1-4" href="NISTXML-unsignedInt-pattern-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-1-5" href="NISTXML-unsignedInt-pattern-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-pattern-2" href="NISTSchema-unsignedInt-pattern-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-pattern-2-1" href="NISTXML-unsignedInt-pattern-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-2-2" href="NISTXML-unsignedInt-pattern-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-2-3" href="NISTXML-unsignedInt-pattern-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-2-4" href="NISTXML-unsignedInt-pattern-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-2-5" href="NISTXML-unsignedInt-pattern-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-pattern-3" href="NISTSchema-unsignedInt-pattern-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-pattern-3-1" href="NISTXML-unsignedInt-pattern-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-3-2" href="NISTXML-unsignedInt-pattern-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-3-3" href="NISTXML-unsignedInt-pattern-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-3-4" href="NISTXML-unsignedInt-pattern-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-3-5" href="NISTXML-unsignedInt-pattern-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-pattern-4" href="NISTSchema-unsignedInt-pattern-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-pattern-4-1" href="NISTXML-unsignedInt-pattern-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-4-2" href="NISTXML-unsignedInt-pattern-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-4-3" href="NISTXML-unsignedInt-pattern-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-4-4" href="NISTXML-unsignedInt-pattern-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-4-5" href="NISTXML-unsignedInt-pattern-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-pattern-5" href="NISTSchema-unsignedInt-pattern-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-pattern-5-1" href="NISTXML-unsignedInt-pattern-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-5-2" href="NISTXML-unsignedInt-pattern-5-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-5-3" href="NISTXML-unsignedInt-pattern-5-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-5-4" href="NISTXML-unsignedInt-pattern-5-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-pattern-5-5" href="NISTXML-unsignedInt-pattern-5-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-pattern-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="enumeration" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-enumeration">
+
+<Notes>
+The value space defined by an enumeration has a minimum of 1 and a maximum of
+20 values.
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-enumeration-1" href="NISTSchema-unsignedInt-enumeration-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-1-1" href="NISTXML-unsignedInt-enumeration-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-1-2" href="NISTXML-unsignedInt-enumeration-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-1-3" href="NISTXML-unsignedInt-enumeration-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-1-4" href="NISTXML-unsignedInt-enumeration-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-1-5" href="NISTXML-unsignedInt-enumeration-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-enumeration-2" href="NISTSchema-unsignedInt-enumeration-2.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-2-1" href="NISTXML-unsignedInt-enumeration-2-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-2-2" href="NISTXML-unsignedInt-enumeration-2-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-2-3" href="NISTXML-unsignedInt-enumeration-2-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-2-4" href="NISTXML-unsignedInt-enumeration-2-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-2-5" href="NISTXML-unsignedInt-enumeration-2-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-enumeration-3" href="NISTSchema-unsignedInt-enumeration-3.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-3-1" href="NISTXML-unsignedInt-enumeration-3-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-3-2" href="NISTXML-unsignedInt-enumeration-3-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-3-3" href="NISTXML-unsignedInt-enumeration-3-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-3-4" href="NISTXML-unsignedInt-enumeration-3-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-3-5" href="NISTXML-unsignedInt-enumeration-3-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-enumeration-4" href="NISTSchema-unsignedInt-enumeration-4.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-4-1" href="NISTXML-unsignedInt-enumeration-4-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-4-2" href="NISTXML-unsignedInt-enumeration-4-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-4-3" href="NISTXML-unsignedInt-enumeration-4-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-4-4" href="NISTXML-unsignedInt-enumeration-4-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-4-5" href="NISTXML-unsignedInt-enumeration-4-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-unsignedInt-enumeration-5" href="NISTSchema-unsignedInt-enumeration-5.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-5-1" href="NISTXML-unsignedInt-enumeration-5-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-5-2" href="NISTXML-unsignedInt-enumeration-5-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-5-3" href="NISTXML-unsignedInt-enumeration-5-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-5-4" href="NISTXML-unsignedInt-enumeration-5-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-enumeration-5-5" href="NISTXML-unsignedInt-enumeration-5-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-enumeration-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="whiteSpace" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-whiteSpace">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-unsignedInt-whiteSpace-1" href="NISTSchema-unsignedInt-whiteSpace-1.xsd">
+
+<Notes>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</Notes>
+
+<Instance  name="NISTXML-unsignedInt-whiteSpace-1-1" href="NISTXML-unsignedInt-whiteSpace-1-1.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-whiteSpace-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-whiteSpace-1-2" href="NISTXML-unsignedInt-whiteSpace-1-2.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-whiteSpace-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-whiteSpace-1-3" href="NISTXML-unsignedInt-whiteSpace-1-3.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-whiteSpace-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-whiteSpace-1-4" href="NISTXML-unsignedInt-whiteSpace-1-4.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-whiteSpace-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-unsignedInt-whiteSpace-1-5" href="NISTXML-unsignedInt-whiteSpace-1-5.xml">
+
+<Notes>
+      File: NISTXML-unsignedInt-whiteSpace-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-unsignedInt-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+
+</Type>
+
+</NISTXMLSchemaTypeTests>

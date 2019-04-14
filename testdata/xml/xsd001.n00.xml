@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<foo:root xmlns:foo="http://foo.com">
+	<child>   </child>
+	<child>atleast3</child>
+	<!-- # of child must be at least 3 -->
+</foo:root>

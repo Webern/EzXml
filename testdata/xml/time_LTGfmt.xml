@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-time-minExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 22:02:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 22:02:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 22:02:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 22:02:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 22:02:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 09:39:25
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 09:39:25
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 09:39:25
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 09:39:25
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 09:39:25
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:07:37
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:07:37
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:07:37
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:07:37
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 00:07:37
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-time-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-minExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet minExclusive with a value of: 23:59:58
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 21:20:05
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 21:20:05
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 21:20:05
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 21:20:05
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 21:20:05
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 17:28:08
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 17:28:08
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 17:28:08
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 17:28:08
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 17:28:08
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 13:56:38
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 13:56:38
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 13:56:38
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 13:56:38
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 13:56:38
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-minInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-time-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-minInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet minInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-minInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-minInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-1,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 00:00:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:37:09
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:37:09
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:37:09
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:37:09
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:37:09
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 16:27:11
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 16:27:11
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 16:27:11
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 16:27:11
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 16:27:11
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 18:26:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 18:26:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 18:26:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 18:26:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 18:26:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxExclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-time-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxExclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxExclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxExclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-1,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 00:00:00
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 07:57:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 07:57:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 07:57:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 07:57:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-2,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 07:57:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 19:54:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 19:54:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 19:54:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 19:54:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-3,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 19:54:01
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 09:14:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 09:14:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 09:14:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 09:14:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-4,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 09:14:43
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-maxInclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-time-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-time-maxInclusive-5,
+      which is derived by restriction of built-in type time
+      by facet maxInclusive with a value of: 23:59:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-maxInclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-time-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-1,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 08:\d\d:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-time-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-1,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 08:\d\d:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-time-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-1,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 08:\d\d:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-time-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-1,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 08:\d\d:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-time-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-1,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 08:\d\d:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-time-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-2,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: \d\d:\d\d:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-time-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-2,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: \d\d:\d\d:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-time-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-2,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: \d\d:\d\d:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-time-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-2,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: \d\d:\d\d:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-time-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-2,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: \d\d:\d\d:59
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-time-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-3,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 21:34:07
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-time-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-3,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 21:34:07
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-time-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-3,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 21:34:07
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-time-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-3,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 21:34:07
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-time-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-3,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 21:34:07
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-4-1" origin="NIST"><description>
+      File: NISTSchema-time-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-4,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 15:40:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-4-2" origin="NIST"><description>
+      File: NISTSchema-time-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-4,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 15:40:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-4-3" origin="NIST"><description>
+      File: NISTSchema-time-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-4,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 15:40:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-4-4" origin="NIST"><description>
+      File: NISTSchema-time-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-4,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 15:40:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-4-5" origin="NIST"><description>
+      File: NISTSchema-time-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-4,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 15:40:\d\d
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-5-1" origin="NIST"><description>
+      File: NISTSchema-time-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-5,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 23:21:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-5-2" origin="NIST"><description>
+      File: NISTSchema-time-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-5,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 23:21:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-5-3" origin="NIST"><description>
+      File: NISTSchema-time-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-5,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 23:21:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-5-4" origin="NIST"><description>
+      File: NISTSchema-time-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-5,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 23:21:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-pattern-5-5" origin="NIST"><description>
+      File: NISTSchema-time-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-time-pattern-5,
+      which is derived by restriction of built-in type time
+      by facet pattern with a value of: 23:21:29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-pattern-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-1,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          04:48:44
+          16:06:54
+          06:54:42
+          15:23:55
+          16:09:18
+          12:14:05
+          00:12:27
+          15:06:30
+          10:47:10
+          00:50:58
+          06:21:55
+          17:41:14
+          21:41:34
+          01:37:08
+          17:54:24
+          10:28:16
+          21:50:14
+          14:20:03
+          15:10:44
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-1,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          04:48:44
+          16:06:54
+          06:54:42
+          15:23:55
+          16:09:18
+          12:14:05
+          00:12:27
+          15:06:30
+          10:47:10
+          00:50:58
+          06:21:55
+          17:41:14
+          21:41:34
+          01:37:08
+          17:54:24
+          10:28:16
+          21:50:14
+          14:20:03
+          15:10:44
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-1,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          04:48:44
+          16:06:54
+          06:54:42
+          15:23:55
+          16:09:18
+          12:14:05
+          00:12:27
+          15:06:30
+          10:47:10
+          00:50:58
+          06:21:55
+          17:41:14
+          21:41:34
+          01:37:08
+          17:54:24
+          10:28:16
+          21:50:14
+          14:20:03
+          15:10:44
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-1,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          04:48:44
+          16:06:54
+          06:54:42
+          15:23:55
+          16:09:18
+          12:14:05
+          00:12:27
+          15:06:30
+          10:47:10
+          00:50:58
+          06:21:55
+          17:41:14
+          21:41:34
+          01:37:08
+          17:54:24
+          10:28:16
+          21:50:14
+          14:20:03
+          15:10:44
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-1,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          04:48:44
+          16:06:54
+          06:54:42
+          15:23:55
+          16:09:18
+          12:14:05
+          00:12:27
+          15:06:30
+          10:47:10
+          00:50:58
+          06:21:55
+          17:41:14
+          21:41:34
+          01:37:08
+          17:54:24
+          10:28:16
+          21:50:14
+          14:20:03
+          15:10:44
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-2,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          20:50:46
+          04:45:56
+          15:13:13
+          11:21:55
+          08:11:21
+          10:48:09
+          09:47:26
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-2,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          20:50:46
+          04:45:56
+          15:13:13
+          11:21:55
+          08:11:21
+          10:48:09
+          09:47:26
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-2,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          20:50:46
+          04:45:56
+          15:13:13
+          11:21:55
+          08:11:21
+          10:48:09
+          09:47:26
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-2,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          20:50:46
+          04:45:56
+          15:13:13
+          11:21:55
+          08:11:21
+          10:48:09
+          09:47:26
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-2,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          20:50:46
+          04:45:56
+          15:13:13
+          11:21:55
+          08:11:21
+          10:48:09
+          09:47:26
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-3,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:44:17
+          21:45:03
+          21:45:46
+          02:14:32
+          03:09:12
+          07:53:38
+          06:30:22
+          04:31:06
+          23:50:30
+          11:24:49
+          14:03:53
+          17:16:39
+          15:17:58
+          17:31:21
+          04:52:43
+          02:47:57
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-3,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:44:17
+          21:45:03
+          21:45:46
+          02:14:32
+          03:09:12
+          07:53:38
+          06:30:22
+          04:31:06
+          23:50:30
+          11:24:49
+          14:03:53
+          17:16:39
+          15:17:58
+          17:31:21
+          04:52:43
+          02:47:57
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-3,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:44:17
+          21:45:03
+          21:45:46
+          02:14:32
+          03:09:12
+          07:53:38
+          06:30:22
+          04:31:06
+          23:50:30
+          11:24:49
+          14:03:53
+          17:16:39
+          15:17:58
+          17:31:21
+          04:52:43
+          02:47:57
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-3,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:44:17
+          21:45:03
+          21:45:46
+          02:14:32
+          03:09:12
+          07:53:38
+          06:30:22
+          04:31:06
+          23:50:30
+          11:24:49
+          14:03:53
+          17:16:39
+          15:17:58
+          17:31:21
+          04:52:43
+          02:47:57
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-3,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:44:17
+          21:45:03
+          21:45:46
+          02:14:32
+          03:09:12
+          07:53:38
+          06:30:22
+          04:31:06
+          23:50:30
+          11:24:49
+          14:03:53
+          17:16:39
+          15:17:58
+          17:31:21
+          04:52:43
+          02:47:57
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-4,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          06:07:42
+          08:27:15
+          19:19:29
+          20:04:20
+          03:36:56
+          10:50:23
+          03:38:12
+          18:00:48
+          07:18:33
+          20:55:47
+          21:19:59
+          01:19:37
+          05:55:55
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-4,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          06:07:42
+          08:27:15
+          19:19:29
+          20:04:20
+          03:36:56
+          10:50:23
+          03:38:12
+          18:00:48
+          07:18:33
+          20:55:47
+          21:19:59
+          01:19:37
+          05:55:55
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-4,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          06:07:42
+          08:27:15
+          19:19:29
+          20:04:20
+          03:36:56
+          10:50:23
+          03:38:12
+          18:00:48
+          07:18:33
+          20:55:47
+          21:19:59
+          01:19:37
+          05:55:55
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-4,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          06:07:42
+          08:27:15
+          19:19:29
+          20:04:20
+          03:36:56
+          10:50:23
+          03:38:12
+          18:00:48
+          07:18:33
+          20:55:47
+          21:19:59
+          01:19:37
+          05:55:55
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-4,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          06:07:42
+          08:27:15
+          19:19:29
+          20:04:20
+          03:36:56
+          10:50:23
+          03:38:12
+          18:00:48
+          07:18:33
+          20:55:47
+          21:19:59
+          01:19:37
+          05:55:55
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-5,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:38:20
+          21:02:47
+          07:51:19
+          06:59:20
+          23:57:27
+          19:15:04
+          23:11:27
+          03:57:39
+          23:29:02
+          08:40:54
+          13:45:40
+          20:22:44
+          21:04:16
+          23:08:30
+          22:43:12
+          00:58:56
+          06:09:12
+          13:43:48
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-5,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:38:20
+          21:02:47
+          07:51:19
+          06:59:20
+          23:57:27
+          19:15:04
+          23:11:27
+          03:57:39
+          23:29:02
+          08:40:54
+          13:45:40
+          20:22:44
+          21:04:16
+          23:08:30
+          22:43:12
+          00:58:56
+          06:09:12
+          13:43:48
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-5,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:38:20
+          21:02:47
+          07:51:19
+          06:59:20
+          23:57:27
+          19:15:04
+          23:11:27
+          03:57:39
+          23:29:02
+          08:40:54
+          13:45:40
+          20:22:44
+          21:04:16
+          23:08:30
+          22:43:12
+          00:58:56
+          06:09:12
+          13:43:48
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-5,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:38:20
+          21:02:47
+          07:51:19
+          06:59:20
+          23:57:27
+          19:15:04
+          23:11:27
+          03:57:39
+          23:29:02
+          08:40:54
+          13:45:40
+          20:22:44
+          21:04:16
+          23:08:30
+          22:43:12
+          00:58:56
+          06:09:12
+          13:43:48
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-time-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-time-enumeration-5,
+      which is derived by restriction of built-in type time
+      by facet enumeration with values of:
+          23:38:20
+          21:02:47
+          07:51:19
+          06:59:20
+          23:57:27
+          19:15:04
+          23:11:27
+          03:57:39
+          23:29:02
+          08:40:54
+          13:45:40
+          20:22:44
+          21:04:16
+          23:08:30
+          22:43:12
+          00:58:56
+          06:09:12
+          13:43:48
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-time-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-time-whiteSpace-1,
+      which is derived by restriction of built-in type time
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-time-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-time-whiteSpace-1,
+      which is derived by restriction of built-in type time
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-time-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-time-whiteSpace-1,
+      which is derived by restriction of built-in type time
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-time-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-time-whiteSpace-1,
+      which is derived by restriction of built-in type time
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-time-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-time-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-time-whiteSpace-1,
+      which is derived by restriction of built-in type time
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-time-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-time-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

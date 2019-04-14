@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<f:root xmlns:f="http://foo.com">
+	<foo />
+	<f:bar />
+	<zot />
+	<foo />
+	<x:bar xmlns:x="http://foo.com" />
+	<zot />
+</f:root>

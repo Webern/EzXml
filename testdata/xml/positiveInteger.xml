@@ -1,0 +1,2919 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE NISTXMLSchemaTypeTests [
+
+<!ELEMENT NISTXMLSchemaTypeTests (Type)>
+
+  <!ATTLIST NISTXMLSchemaTypeTests xml:base CDATA #REQUIRED>
+
+<!ELEMENT Type (Notes, Facet*)>
+
+  <!ATTLIST Type Name CDATA #REQUIRED>
+  <!ATTLIST Type href CDATA #REQUIRED>
+
+<!ELEMENT Notes (#PCDATA)>
+
+<!ELEMENT Facet (Notes, Schema*)>
+
+  <!ATTLIST Facet Name CDATA #REQUIRED>
+  <!ATTLIST Facet href CDATA #REQUIRED>
+
+<!ELEMENT Schema (Notes, Instance*)>
+
+  <!ATTLIST Schema name CDATA #REQUIRED>
+  <!ATTLIST Schema href CDATA #REQUIRED>
+
+<!ELEMENT Instance (Notes)>
+
+  <!ATTLIST Instance name CDATA #REQUIRED>
+  <!ATTLIST Instance href CDATA #REQUIRED>
+
+]>
+
+<NISTXMLSchemaTypeTests xml:base="">
+
+<Type Name="positiveInteger" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#positiveInteger">
+
+<Notes>
+The value space of type positiveInteger used in these tests is
+actually a subset of that defined in the Recommendation. The local
+positiveInteger type behaves as if it were derived from the general
+type by restriction with totalDigits == 20.
+
+</Notes>
+
+<Facet Name="minExclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-minExclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-minExclusive-1" href="NISTSchema-positiveInteger-minExclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-1-1" href="NISTXML-positiveInteger-minExclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-1-2" href="NISTXML-positiveInteger-minExclusive-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-1-3" href="NISTXML-positiveInteger-minExclusive-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-1-4" href="NISTXML-positiveInteger-minExclusive-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-1-5" href="NISTXML-positiveInteger-minExclusive-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minExclusive-2" href="NISTSchema-positiveInteger-minExclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-2-1" href="NISTXML-positiveInteger-minExclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-2-2" href="NISTXML-positiveInteger-minExclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-2-3" href="NISTXML-positiveInteger-minExclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-2-4" href="NISTXML-positiveInteger-minExclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-2-5" href="NISTXML-positiveInteger-minExclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minExclusive-3" href="NISTSchema-positiveInteger-minExclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-3-1" href="NISTXML-positiveInteger-minExclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-3-2" href="NISTXML-positiveInteger-minExclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-3-3" href="NISTXML-positiveInteger-minExclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-3-4" href="NISTXML-positiveInteger-minExclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-3-5" href="NISTXML-positiveInteger-minExclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minExclusive-4" href="NISTSchema-positiveInteger-minExclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-4-1" href="NISTXML-positiveInteger-minExclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-4-2" href="NISTXML-positiveInteger-minExclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-4-3" href="NISTXML-positiveInteger-minExclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-4-4" href="NISTXML-positiveInteger-minExclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-4-5" href="NISTXML-positiveInteger-minExclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minExclusive-5" href="NISTSchema-positiveInteger-minExclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 99999999999999999998
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minExclusive-5-1" href="NISTXML-positiveInteger-minExclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minExclusive-5-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-positiveInteger-minExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="minInclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-minInclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-minInclusive-1" href="NISTSchema-positiveInteger-minInclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-1-1" href="NISTXML-positiveInteger-minInclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-1-2" href="NISTXML-positiveInteger-minInclusive-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-1-3" href="NISTXML-positiveInteger-minInclusive-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-1-4" href="NISTXML-positiveInteger-minInclusive-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-1-5" href="NISTXML-positiveInteger-minInclusive-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minInclusive-2" href="NISTSchema-positiveInteger-minInclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-2-1" href="NISTXML-positiveInteger-minInclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-2-2" href="NISTXML-positiveInteger-minInclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-2-3" href="NISTXML-positiveInteger-minInclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-2-4" href="NISTXML-positiveInteger-minInclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-2-5" href="NISTXML-positiveInteger-minInclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minInclusive-3" href="NISTSchema-positiveInteger-minInclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-3-1" href="NISTXML-positiveInteger-minInclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-3-2" href="NISTXML-positiveInteger-minInclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-3-3" href="NISTXML-positiveInteger-minInclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-3-4" href="NISTXML-positiveInteger-minInclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-3-5" href="NISTXML-positiveInteger-minInclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minInclusive-4" href="NISTSchema-positiveInteger-minInclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-4-1" href="NISTXML-positiveInteger-minInclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-4-2" href="NISTXML-positiveInteger-minInclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-4-3" href="NISTXML-positiveInteger-minInclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-4-4" href="NISTXML-positiveInteger-minInclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-4-5" href="NISTXML-positiveInteger-minInclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-minInclusive-5" href="NISTSchema-positiveInteger-minInclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 99999999999999999999
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-minInclusive-5-1" href="NISTXML-positiveInteger-minInclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-minInclusive-5-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-positiveInteger-minInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="maxExclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-maxExclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-maxExclusive-1" href="NISTSchema-positiveInteger-maxExclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 2
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-1-1" href="NISTXML-positiveInteger-maxExclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-1-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxExclusive-2" href="NISTSchema-positiveInteger-maxExclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-2-1" href="NISTXML-positiveInteger-maxExclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-2-2" href="NISTXML-positiveInteger-maxExclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-2-3" href="NISTXML-positiveInteger-maxExclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-2-4" href="NISTXML-positiveInteger-maxExclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-2-5" href="NISTXML-positiveInteger-maxExclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxExclusive-3" href="NISTSchema-positiveInteger-maxExclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-3-1" href="NISTXML-positiveInteger-maxExclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-3-2" href="NISTXML-positiveInteger-maxExclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-3-3" href="NISTXML-positiveInteger-maxExclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-3-4" href="NISTXML-positiveInteger-maxExclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-3-5" href="NISTXML-positiveInteger-maxExclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxExclusive-4" href="NISTSchema-positiveInteger-maxExclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-4-1" href="NISTXML-positiveInteger-maxExclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-4-2" href="NISTXML-positiveInteger-maxExclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-4-3" href="NISTXML-positiveInteger-maxExclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-4-4" href="NISTXML-positiveInteger-maxExclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-4-5" href="NISTXML-positiveInteger-maxExclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxExclusive-5" href="NISTSchema-positiveInteger-maxExclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-5-1" href="NISTXML-positiveInteger-maxExclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-5-2" href="NISTXML-positiveInteger-maxExclusive-5-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-5-3" href="NISTXML-positiveInteger-maxExclusive-5-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-5-4" href="NISTXML-positiveInteger-maxExclusive-5-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxExclusive-5-5" href="NISTXML-positiveInteger-maxExclusive-5-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxExclusive-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxExclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="maxInclusive" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-maxInclusive">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-maxInclusive-1" href="NISTSchema-positiveInteger-maxInclusive-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-1-1" href="NISTXML-positiveInteger-maxInclusive-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-1-1.xml
+      XML instance number 1 in a series of 
+      1 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxInclusive-2" href="NISTSchema-positiveInteger-maxInclusive-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-2-1" href="NISTXML-positiveInteger-maxInclusive-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-2-2" href="NISTXML-positiveInteger-maxInclusive-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-2-3" href="NISTXML-positiveInteger-maxInclusive-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-2-4" href="NISTXML-positiveInteger-maxInclusive-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-2-5" href="NISTXML-positiveInteger-maxInclusive-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxInclusive-3" href="NISTSchema-positiveInteger-maxInclusive-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-3-1" href="NISTXML-positiveInteger-maxInclusive-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-3-2" href="NISTXML-positiveInteger-maxInclusive-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-3-3" href="NISTXML-positiveInteger-maxInclusive-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-3-4" href="NISTXML-positiveInteger-maxInclusive-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-3-5" href="NISTXML-positiveInteger-maxInclusive-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxInclusive-4" href="NISTSchema-positiveInteger-maxInclusive-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-4-1" href="NISTXML-positiveInteger-maxInclusive-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-4-2" href="NISTXML-positiveInteger-maxInclusive-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-4-3" href="NISTXML-positiveInteger-maxInclusive-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-4-4" href="NISTXML-positiveInteger-maxInclusive-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-4-5" href="NISTXML-positiveInteger-maxInclusive-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-maxInclusive-5" href="NISTSchema-positiveInteger-maxInclusive-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-5-1" href="NISTXML-positiveInteger-maxInclusive-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-5-2" href="NISTXML-positiveInteger-maxInclusive-5-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-5-3" href="NISTXML-positiveInteger-maxInclusive-5-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-5-4" href="NISTXML-positiveInteger-maxInclusive-5-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-maxInclusive-5-5" href="NISTXML-positiveInteger-maxInclusive-5-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-maxInclusive-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-maxInclusive-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="fractionDigits" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-fractionDigits">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-fractionDigits-1" href="NISTSchema-positiveInteger-fractionDigits-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-fractionDigits-1-1" href="NISTXML-positiveInteger-fractionDigits-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-fractionDigits-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-fractionDigits-1-2" href="NISTXML-positiveInteger-fractionDigits-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-fractionDigits-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-fractionDigits-1-3" href="NISTXML-positiveInteger-fractionDigits-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-fractionDigits-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-fractionDigits-1-4" href="NISTXML-positiveInteger-fractionDigits-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-fractionDigits-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-fractionDigits-1-5" href="NISTXML-positiveInteger-fractionDigits-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-fractionDigits-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-fractionDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="totalDigits" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-totalDigits">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-totalDigits-1" href="NISTSchema-positiveInteger-totalDigits-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-1-1" href="NISTXML-positiveInteger-totalDigits-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-1-2" href="NISTXML-positiveInteger-totalDigits-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-1-3" href="NISTXML-positiveInteger-totalDigits-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-1-4" href="NISTXML-positiveInteger-totalDigits-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-1-5" href="NISTXML-positiveInteger-totalDigits-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-totalDigits-2" href="NISTSchema-positiveInteger-totalDigits-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-2-1" href="NISTXML-positiveInteger-totalDigits-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-2-2" href="NISTXML-positiveInteger-totalDigits-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-2-3" href="NISTXML-positiveInteger-totalDigits-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-2-4" href="NISTXML-positiveInteger-totalDigits-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-2-5" href="NISTXML-positiveInteger-totalDigits-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-totalDigits-3" href="NISTSchema-positiveInteger-totalDigits-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-3-1" href="NISTXML-positiveInteger-totalDigits-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-3-2" href="NISTXML-positiveInteger-totalDigits-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-3-3" href="NISTXML-positiveInteger-totalDigits-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-3-4" href="NISTXML-positiveInteger-totalDigits-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-3-5" href="NISTXML-positiveInteger-totalDigits-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-totalDigits-4" href="NISTSchema-positiveInteger-totalDigits-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-4-1" href="NISTXML-positiveInteger-totalDigits-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-4-2" href="NISTXML-positiveInteger-totalDigits-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-4-3" href="NISTXML-positiveInteger-totalDigits-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-4-4" href="NISTXML-positiveInteger-totalDigits-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-4-5" href="NISTXML-positiveInteger-totalDigits-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-totalDigits-5" href="NISTSchema-positiveInteger-totalDigits-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-5-1" href="NISTXML-positiveInteger-totalDigits-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-5-2" href="NISTXML-positiveInteger-totalDigits-5-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-5-3" href="NISTXML-positiveInteger-totalDigits-5-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-5-4" href="NISTXML-positiveInteger-totalDigits-5-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-totalDigits-5-5" href="NISTXML-positiveInteger-totalDigits-5-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-totalDigits-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-totalDigits-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="pattern" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-pattern">
+
+<Notes>
+The generalized regular expressions from which pattern specifications are derived
+for the various types are as follows:
+
+decimal::= \-?\d{0,t-f}(\.\d{1,f})?
+	Where:
+	\- is the optional negative sign
+	\d is any digit (same as [0-9]);
+ 	\. represents the decimal point;
+	t is the total number of digits in the string (ie the value of the totalDigits facet);
+	f is the number of digits in the fractional part of the number (ie the value of
+	the fractionDigits facet).
+
+	This pattern applies to decimal and all its derivatives, in combination with any
+        	further constraints (e.g. for integer, fractionDigits must == 0).
+
+gYear::= [1970-2030]
+
+gYearMonth::= gYear \-((0,[1-9]) | (1,[0-2]))
+
+date::= gYearMonth \-(([0-2],[0-9])|(3,[0-1]))
+
+                Note: Dates such as February 31 are disallowed.
+
+time::= (([0-1],[0-9])|(2,[0-3])) ':' ([0-5],[0-9]) ':' ([0-5],[0-9])
+
+dateTime::= date 'T' time
+
+                Note: Dates such as February 31 are disallowed.
+
+gMonthDay::= \-\-((0,[1-9]) | (1,[0-2]))\-(([0-2],[0-9])|(3,[0-1]))
+
+gDay::= \-\-\-(([0-2],[0-9])|(3,[0-1]))
+
+gMonth::= \-\-((0,[1-9]) | (1,[0-2]))\-\-
+
+duration::= 'P' [1970-2030] 'Y' ((0,[1-9]) | (1,[0-2])) 'M' (([0-2],[0-9])|(3,[0-1])) 'DT' (([0-1],[0-9])|(2,[0-3])) 'H' ([0-5],[0-9]) 'M' ([0-5],[0-9]) 'S'
+
+double::= decimal 'E' [(-1075)-970]
+
+float::= decimal 'E' [(-149)-104]
+
+string::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' \n([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+normalizedString::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' ([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+
+token::= normalizedString
+
+language::= ([a-zA-Z]{2}|[iI]-[a-zA-Z]+|[xX]-[a-zA-Z]{1, 8})(-[a-zA-Z]{1, 8})*
+
+Name::= \i\c*
+
+NCName::= Name
+
+	Note: ":" is disallowed.
+
+ID::= NCName
+
+boolean::= [0|1|true|false]
+
+base64Binary::= [a-zA-Z0-9+/]+
+
+hexBinary::= [0-9A-F]+
+
+anyURI::= [http://|http://www.|ftp://|ftp://ftp.|telnet://|gopher://](\c+)[.com|.edu|.org|.gov]
+
+QName::= (NCName ':')?NCName
+
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-pattern-1" href="NISTSchema-positiveInteger-pattern-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-pattern-1-1" href="NISTXML-positiveInteger-pattern-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-1-2" href="NISTXML-positiveInteger-pattern-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-1-3" href="NISTXML-positiveInteger-pattern-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-1-4" href="NISTXML-positiveInteger-pattern-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-1-5" href="NISTXML-positiveInteger-pattern-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-pattern-2" href="NISTSchema-positiveInteger-pattern-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-pattern-2-1" href="NISTXML-positiveInteger-pattern-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-2-2" href="NISTXML-positiveInteger-pattern-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-2-3" href="NISTXML-positiveInteger-pattern-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-2-4" href="NISTXML-positiveInteger-pattern-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-2-5" href="NISTXML-positiveInteger-pattern-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-pattern-3" href="NISTSchema-positiveInteger-pattern-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-pattern-3-1" href="NISTXML-positiveInteger-pattern-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-3-2" href="NISTXML-positiveInteger-pattern-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-3-3" href="NISTXML-positiveInteger-pattern-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-3-4" href="NISTXML-positiveInteger-pattern-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-3-5" href="NISTXML-positiveInteger-pattern-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-pattern-4" href="NISTSchema-positiveInteger-pattern-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-pattern-4-1" href="NISTXML-positiveInteger-pattern-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-4-2" href="NISTXML-positiveInteger-pattern-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-4-3" href="NISTXML-positiveInteger-pattern-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-4-4" href="NISTXML-positiveInteger-pattern-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-4-5" href="NISTXML-positiveInteger-pattern-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-pattern-5" href="NISTSchema-positiveInteger-pattern-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-pattern-5-1" href="NISTXML-positiveInteger-pattern-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-5-2" href="NISTXML-positiveInteger-pattern-5-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-5-3" href="NISTXML-positiveInteger-pattern-5-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-5-4" href="NISTXML-positiveInteger-pattern-5-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-pattern-5-5" href="NISTXML-positiveInteger-pattern-5-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-pattern-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="enumeration" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-enumeration">
+
+<Notes>
+The value space defined by an enumeration has a minimum of 1 and a maximum of
+20 values.
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-enumeration-1" href="NISTSchema-positiveInteger-enumeration-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-1-1" href="NISTXML-positiveInteger-enumeration-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-1-2" href="NISTXML-positiveInteger-enumeration-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-1-3" href="NISTXML-positiveInteger-enumeration-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-1-4" href="NISTXML-positiveInteger-enumeration-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-1-5" href="NISTXML-positiveInteger-enumeration-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-enumeration-2" href="NISTSchema-positiveInteger-enumeration-2.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-2-1" href="NISTXML-positiveInteger-enumeration-2-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-2-2" href="NISTXML-positiveInteger-enumeration-2-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-2-3" href="NISTXML-positiveInteger-enumeration-2-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-2-4" href="NISTXML-positiveInteger-enumeration-2-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-2-5" href="NISTXML-positiveInteger-enumeration-2-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-enumeration-3" href="NISTSchema-positiveInteger-enumeration-3.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-3-1" href="NISTXML-positiveInteger-enumeration-3-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-3-2" href="NISTXML-positiveInteger-enumeration-3-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-3-3" href="NISTXML-positiveInteger-enumeration-3-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-3-4" href="NISTXML-positiveInteger-enumeration-3-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-3-5" href="NISTXML-positiveInteger-enumeration-3-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-enumeration-4" href="NISTSchema-positiveInteger-enumeration-4.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-4-1" href="NISTXML-positiveInteger-enumeration-4-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-4-2" href="NISTXML-positiveInteger-enumeration-4-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-4-3" href="NISTXML-positiveInteger-enumeration-4-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-4-4" href="NISTXML-positiveInteger-enumeration-4-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-4-5" href="NISTXML-positiveInteger-enumeration-4-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-positiveInteger-enumeration-5" href="NISTSchema-positiveInteger-enumeration-5.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-5-1" href="NISTXML-positiveInteger-enumeration-5-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-5-2" href="NISTXML-positiveInteger-enumeration-5-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-5-3" href="NISTXML-positiveInteger-enumeration-5-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-5-4" href="NISTXML-positiveInteger-enumeration-5-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-enumeration-5-5" href="NISTXML-positiveInteger-enumeration-5-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-enumeration-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="whiteSpace" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-whiteSpace">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-positiveInteger-whiteSpace-1" href="NISTSchema-positiveInteger-whiteSpace-1.xsd">
+
+<Notes>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</Notes>
+
+<Instance  name="NISTXML-positiveInteger-whiteSpace-1-1" href="NISTXML-positiveInteger-whiteSpace-1-1.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-whiteSpace-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-whiteSpace-1-2" href="NISTXML-positiveInteger-whiteSpace-1-2.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-whiteSpace-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-whiteSpace-1-3" href="NISTXML-positiveInteger-whiteSpace-1-3.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-whiteSpace-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-whiteSpace-1-4" href="NISTXML-positiveInteger-whiteSpace-1-4.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-whiteSpace-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-positiveInteger-whiteSpace-1-5" href="NISTXML-positiveInteger-whiteSpace-1-5.xml">
+
+<Notes>
+      File: NISTXML-positiveInteger-whiteSpace-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-positiveInteger-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+
+</Type>
+
+</NISTXMLSchemaTypeTests>

@@ -15,10 +15,10 @@ namespace ezxml
     JDocImpl::JDocImpl(
         std::string inRootElement,
         std::string inAttributePrefix,
-        std::string inArrayItemElement )
+        std::string inArrayNameSuffix  )
     : myRootElement( std::move( inRootElement ) )
     , myAttributePrefix{ std::move( inAttributePrefix ) }
-    , myArrayItemElement{ std::move( inArrayItemElement ) }
+    , myArrayNameSuffix{ std::move( inArrayNameSuffix ) }
     , myXDoc{ nullptr }
     {
 
@@ -35,14 +35,25 @@ namespace ezxml
             case rapidjson::Type::kArrayType:
             {
                 const auto& arr = jvalToAdd.GetArray();
+                const auto& arrName = xparent->getName();
+                std::string arrElemName = "array_item";
+                if( arrName.size() > myArrayNameSuffix.size() )
+                {
+                    const auto& sub = arrName.substr(arrName.size() - myArrayNameSuffix.size());
+                    if( sub == myArrayNameSuffix )
+                    {
+                        arrElemName = arrName.substr( 0, arrName.size() - myArrayNameSuffix.size() );
+                    }
+                }
                 auto i = arr.Begin();
                 const auto e = arr.End();
 
                 for( ; i != e; ++i )
                 {
-                    auto newxel = xparent->appendChild( myArrayItemElement );
+                    auto newxel = xparent->appendChild( arrElemName );
                     convert( newxel, *i );
                 }
+                break;
             }
             case rapidjson::Type::kObjectType:
             {
@@ -54,9 +65,13 @@ namespace ezxml
                 {
                     const auto& name = std::string{ i->name.GetString() };
                     const auto& val = i->value;
+
+                    // TODO - refactor to function
                     const auto isAttribute =
                         name.size() >= myAttributePrefix.size() &&
                         name.substr( 0, myAttributePrefix.size() ) == myAttributePrefix;
+
+                    // TODO - check if the name is an array name, like _array, if so, do not create a new child element
                     const auto thisType = val.GetType();
 
                     std::string strVal = "";
@@ -125,24 +140,23 @@ namespace ezxml
                             child->setValue( strVal );
                         }
                     }
-
-
-
-//                    auto newxel = xparent->appendChild( myArrayItemElement );
-//                    convert( newxel, *i );
                 }
+                break;
             }
             case rapidjson::Type::kTrueType:
             {
                 xparent->setValue( "true" );
+                break;
             }
             case rapidjson::Type::kFalseType:
             {
                 xparent->setValue( "false" );
+                break;
             }
             case rapidjson::Type::kNullType:
             {
                 xparent->setValue( "" );
+                break;
             }
             case rapidjson::Type::kNumberType:
             {
@@ -166,7 +180,10 @@ namespace ezxml
             case rapidjson::Type::kStringType:
             {
                 xparent->setValue( jvalToAdd.GetString() );
+                break;
             }
+            default:
+                EZXML_THROW( "bad json type" );
         }
     }
 
@@ -211,7 +228,7 @@ namespace ezxml
     
     const std::string& JDocImpl::getArrayItemName() const
     {
-        return myArrayItemElement;
+        return myArrayNameSuffix;
     }
 
     

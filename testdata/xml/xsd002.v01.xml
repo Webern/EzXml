@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<f:root xmlns:f="http://foo.com">
+	<foo>
+		<this />
+		<contents />
+		should not be
+		validated
+		<because it="is ur-type" />
+	</foo>
+	<f:bar />
+	<zot attributes="are" also="ignored">
+		when using <ur><type/></ur>
+	</zot>
+</f:root>

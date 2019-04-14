@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-nonNegativeInteger-minExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 45389918782225913139
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 45389918782225913139
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 45389918782225913139
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 45389918782225913139
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 45389918782225913139
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 13233459957655535621
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 13233459957655535621
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 13233459957655535621
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 13233459957655535621
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 13233459957655535621
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 30203263381174283441
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 30203263381174283441
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 30203263381174283441
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 30203263381174283441
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 30203263381174283441
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minExclusive with a value of: 99999999999999999998
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 88812455549057300884
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 88812455549057300884
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 88812455549057300884
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 88812455549057300884
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 88812455549057300884
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 67816630727910343078
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 67816630727910343078
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 67816630727910343078
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 67816630727910343078
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 67816630727910343078
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 41063529153863720377
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 41063529153863720377
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 41063529153863720377
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 41063529153863720377
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 41063529153863720377
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-minInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-minInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet minInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-minInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-minInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 93113652334413288257
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 93113652334413288257
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 93113652334413288257
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 93113652334413288257
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 93113652334413288257
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 14738104862981882271
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 14738104862981882271
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 14738104862981882271
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 14738104862981882271
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 14738104862981882271
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 16150080691773238684
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 16150080691773238684
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 16150080691773238684
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 16150080691773238684
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 16150080691773238684
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxExclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxExclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxExclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 66050531491002428818
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 66050531491002428818
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 66050531491002428818
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 66050531491002428818
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 66050531491002428818
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 11611768598194061041
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 11611768598194061041
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 11611768598194061041
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 11611768598194061041
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 11611768598194061041
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 98481126376558447698
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 98481126376558447698
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 98481126376558447698
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 98481126376558447698
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 98481126376558447698
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-maxInclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-maxInclusive-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-maxInclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-fractionDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-fractionDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-fractionDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-fractionDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-fractionDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-fractionDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-fractionDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-fractionDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-fractionDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-fractionDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-fractionDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-fractionDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-fractionDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-fractionDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-fractionDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-5-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-5-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-5-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-totalDigits-5-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-totalDigits-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-totalDigits-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-5-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-5-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-5-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-pattern-5-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-pattern-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-pattern-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9321931380195476180
+          155
+          6832319342
+          790242419519860628
+          74821303068
+          802253307212
+          5645362160
+          49933966064489
+          70415323
+          87607
+          841230106
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9321931380195476180
+          155
+          6832319342
+          790242419519860628
+          74821303068
+          802253307212
+          5645362160
+          49933966064489
+          70415323
+          87607
+          841230106
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9321931380195476180
+          155
+          6832319342
+          790242419519860628
+          74821303068
+          802253307212
+          5645362160
+          49933966064489
+          70415323
+          87607
+          841230106
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9321931380195476180
+          155
+          6832319342
+          790242419519860628
+          74821303068
+          802253307212
+          5645362160
+          49933966064489
+          70415323
+          87607
+          841230106
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9321931380195476180
+          155
+          6832319342
+          790242419519860628
+          74821303068
+          802253307212
+          5645362160
+          49933966064489
+          70415323
+          87607
+          841230106
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          22623
+          325252720
+          934502487690048289
+          1116975889913
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          22623
+          325252720
+          934502487690048289
+          1116975889913
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          22623
+          325252720
+          934502487690048289
+          1116975889913
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          22623
+          325252720
+          934502487690048289
+          1116975889913
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-2,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          22623
+          325252720
+          934502487690048289
+          1116975889913
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          89442
+          71416297
+          9974762165
+          4332563941740885660
+          831312305303008
+          41126572857
+          4481793984707803
+          153848637685685
+          29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          89442
+          71416297
+          9974762165
+          4332563941740885660
+          831312305303008
+          41126572857
+          4481793984707803
+          153848637685685
+          29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          89442
+          71416297
+          9974762165
+          4332563941740885660
+          831312305303008
+          41126572857
+          4481793984707803
+          153848637685685
+          29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          89442
+          71416297
+          9974762165
+          4332563941740885660
+          831312305303008
+          41126572857
+          4481793984707803
+          153848637685685
+          29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-3,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          89442
+          71416297
+          9974762165
+          4332563941740885660
+          831312305303008
+          41126572857
+          4481793984707803
+          153848637685685
+          29
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          7214509
+          89114039860
+          1570
+          69388538264267
+          917798630101275159
+          760
+          8684643949390542516
+          62
+          5037292910150
+          7281341990930528806
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          7214509
+          89114039860
+          1570
+          69388538264267
+          917798630101275159
+          760
+          8684643949390542516
+          62
+          5037292910150
+          7281341990930528806
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          7214509
+          89114039860
+          1570
+          69388538264267
+          917798630101275159
+          760
+          8684643949390542516
+          62
+          5037292910150
+          7281341990930528806
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          7214509
+          89114039860
+          1570
+          69388538264267
+          917798630101275159
+          760
+          8684643949390542516
+          62
+          5037292910150
+          7281341990930528806
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-4,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          7214509
+          89114039860
+          1570
+          69388538264267
+          917798630101275159
+          760
+          8684643949390542516
+          62
+          5037292910150
+          7281341990930528806
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9
+          4610567
+          9981581232
+          1260920437986197
+          39987
+          902005668273
+          3
+          72
+          1269696497597
+          71005
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9
+          4610567
+          9981581232
+          1260920437986197
+          39987
+          902005668273
+          3
+          72
+          1269696497597
+          71005
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9
+          4610567
+          9981581232
+          1260920437986197
+          39987
+          902005668273
+          3
+          72
+          1269696497597
+          71005
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9
+          4610567
+          9981581232
+          1260920437986197
+          39987
+          902005668273
+          3
+          72
+          1269696497597
+          71005
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-enumeration-5,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet enumeration with values of:
+          9
+          4610567
+          9981581232
+          1260920437986197
+          39987
+          902005668273
+          3
+          72
+          1269696497597
+          71005
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-whiteSpace-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-whiteSpace-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-whiteSpace-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-whiteSpace-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-nonNegativeInteger-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-nonNegativeInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-nonNegativeInteger-whiteSpace-1,
+      which is derived by restriction of built-in type nonNegativeInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-nonNegativeInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-nonNegativeInteger-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

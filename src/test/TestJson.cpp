@@ -23,7 +23,9 @@ static constexpr const char* const json = R"(
 
 TEST_CASE( "basic_json", "1" )
 {
-    auto jdoc = ezxml::XFactory::makeJDoc( "whatever", "attr_", "bloop" );
-    std::istringstream iss;
+    auto jdoc = ezxml::XFactory::makeJDoc( "whatever", "attr_", "_array" );
+    std::istringstream iss{ json };
     jdoc->loadStream( iss );
+    auto xdoc = jdoc->toXDoc();
+    xdoc->saveStream(std::cout);
 }

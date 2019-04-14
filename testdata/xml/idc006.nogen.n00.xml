@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<!-- undefined key -->
+<root xmlns="http://www.publishing.org">
+
+	<keys>
+		<a/>
+	</keys>
+	
+	<keyref>id1</keyref>
+</root>

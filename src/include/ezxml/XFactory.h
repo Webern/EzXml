@@ -14,7 +14,7 @@ namespace ezxml
         static JDocPtr makeJDoc(
             std::string inRootElement,
             std::string inAttributePrefix,
-            std::string inArrayItemElement );
+            std::string inArrayNameSuffix  );
 
         static XDocPtr makeXDoc();
         static XElementPtr makeXElement();

@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-unsignedByte-minExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 24
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 24
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 24
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 24
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 24
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 114
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 114
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 114
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 114
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 114
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 45
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 45
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 45
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 45
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 45
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minExclusive with a value of: 254
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 80
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 80
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 80
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 80
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 80
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 17
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 17
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 17
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 17
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 17
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 62
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 62
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 62
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 62
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 62
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-minInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-minInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet minInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-minInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-minInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 60
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 60
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 60
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 60
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 60
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 200
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 200
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 200
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 200
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 200
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 12
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 12
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 12
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 12
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 12
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxExclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxExclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxExclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 224
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 224
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 224
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 224
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 224
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 71
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 71
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 71
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 71
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 71
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 111
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 111
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 111
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 111
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 111
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-maxInclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet maxInclusive with a value of: 255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-maxInclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-fractionDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-fractionDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-fractionDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-fractionDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-fractionDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-fractionDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-fractionDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-fractionDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-fractionDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-fractionDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-totalDigits-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-totalDigits-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-totalDigits-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{2}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{2}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{2}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{2}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{2}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-pattern-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          55
+          3
+          255
+          93
+          21
+          8
+          4
+          255
+          2
+          1
+          92
+          44
+          39
+          4
+          7
+          4
+          2
+          255
+          82
+          36
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          55
+          3
+          255
+          93
+          21
+          8
+          4
+          255
+          2
+          1
+          92
+          44
+          39
+          4
+          7
+          4
+          2
+          255
+          82
+          36
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          55
+          3
+          255
+          93
+          21
+          8
+          4
+          255
+          2
+          1
+          92
+          44
+          39
+          4
+          7
+          4
+          2
+          255
+          82
+          36
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          55
+          3
+          255
+          93
+          21
+          8
+          4
+          255
+          2
+          1
+          92
+          44
+          39
+          4
+          7
+          4
+          2
+          255
+          82
+          36
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          55
+          3
+          255
+          93
+          21
+          8
+          4
+          255
+          2
+          1
+          92
+          44
+          39
+          4
+          7
+          4
+          2
+          255
+          82
+          36
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          50
+          7
+          6
+          86
+          3
+          5
+          3
+          6
+          27
+          2
+          5
+          28
+          7
+          4
+          255
+          5
+          45
+          61
+          3
+          3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          50
+          7
+          6
+          86
+          3
+          5
+          3
+          6
+          27
+          2
+          5
+          28
+          7
+          4
+          255
+          5
+          45
+          61
+          3
+          3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          50
+          7
+          6
+          86
+          3
+          5
+          3
+          6
+          27
+          2
+          5
+          28
+          7
+          4
+          255
+          5
+          45
+          61
+          3
+          3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          50
+          7
+          6
+          86
+          3
+          5
+          3
+          6
+          27
+          2
+          5
+          28
+          7
+          4
+          255
+          5
+          45
+          61
+          3
+          3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-2,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          50
+          7
+          6
+          86
+          3
+          5
+          3
+          6
+          27
+          2
+          5
+          28
+          7
+          4
+          255
+          5
+          45
+          61
+          3
+          3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          54
+          82
+          2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          54
+          82
+          2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          54
+          82
+          2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          54
+          82
+          2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-3,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          54
+          82
+          2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          2
+          8
+          255
+          41
+          255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          2
+          8
+          255
+          41
+          255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          2
+          8
+          255
+          41
+          255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          2
+          8
+          255
+          41
+          255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-4,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          2
+          8
+          255
+          41
+          255
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          12
+          148
+          92
+          154
+          4
+          9
+          25
+          13
+          34
+          57
+          8
+          49
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          12
+          148
+          92
+          154
+          4
+          9
+          25
+          13
+          34
+          57
+          8
+          49
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          12
+          148
+          92
+          154
+          4
+          9
+          25
+          13
+          34
+          57
+          8
+          49
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          12
+          148
+          92
+          154
+          4
+          9
+          25
+          13
+          34
+          57
+          8
+          49
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-enumeration-5,
+      which is derived by restriction of built-in type unsignedByte
+      by facet enumeration with values of:
+          12
+          148
+          92
+          154
+          4
+          9
+          25
+          13
+          34
+          57
+          8
+          49
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedByte-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedByte-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedByte-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedByte
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedByte-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedByte-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

@@ -1,0 +1,2221 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE NISTXMLSchemaTypeTests [
+
+<!ELEMENT NISTXMLSchemaTypeTests (Type)>
+
+  <!ATTLIST NISTXMLSchemaTypeTests xml:base CDATA #REQUIRED>
+
+<!ELEMENT Type (Notes, Facet*)>
+
+  <!ATTLIST Type Name CDATA #REQUIRED>
+  <!ATTLIST Type href CDATA #REQUIRED>
+
+<!ELEMENT Notes (#PCDATA)>
+
+<!ELEMENT Facet (Notes, Schema*)>
+
+  <!ATTLIST Facet Name CDATA #REQUIRED>
+  <!ATTLIST Facet href CDATA #REQUIRED>
+
+<!ELEMENT Schema (Notes, Instance*)>
+
+  <!ATTLIST Schema name CDATA #REQUIRED>
+  <!ATTLIST Schema href CDATA #REQUIRED>
+
+<!ELEMENT Instance (Notes)>
+
+  <!ATTLIST Instance name CDATA #REQUIRED>
+  <!ATTLIST Instance href CDATA #REQUIRED>
+
+]>
+
+<NISTXMLSchemaTypeTests xml:base="">
+
+<Type Name="NMTOKEN" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#NMTOKEN">
+
+<Notes>
+The value space of type NMTOKEN used in these tests is actually a subset
+of that defined in the Recommendation. The local NMTOKEN type behaves as
+if it were derived from the general type by restriction with maxLength
+== 64 and with minLength == 1.
+
+</Notes>
+
+<Facet Name="maxLength" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-maxLength">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-maxLength-1" href="NISTSchema-NMTOKEN-maxLength-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-maxLength-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-maxLength-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet maxLength with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-1-1" href="NISTXML-NMTOKEN-maxLength-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-1-2" href="NISTXML-NMTOKEN-maxLength-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-1-3" href="NISTXML-NMTOKEN-maxLength-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-1-4" href="NISTXML-NMTOKEN-maxLength-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-1-5" href="NISTXML-NMTOKEN-maxLength-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-maxLength-2" href="NISTSchema-NMTOKEN-maxLength-2.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-maxLength-2,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet maxLength with a value of: 21
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-2-1" href="NISTXML-NMTOKEN-maxLength-2-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-2-2" href="NISTXML-NMTOKEN-maxLength-2-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-2-3" href="NISTXML-NMTOKEN-maxLength-2-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-2-4" href="NISTXML-NMTOKEN-maxLength-2-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-2-5" href="NISTXML-NMTOKEN-maxLength-2-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-maxLength-3" href="NISTSchema-NMTOKEN-maxLength-3.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-maxLength-3,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet maxLength with a value of: 14
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-3-1" href="NISTXML-NMTOKEN-maxLength-3-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-3-2" href="NISTXML-NMTOKEN-maxLength-3-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-3-3" href="NISTXML-NMTOKEN-maxLength-3-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-3-4" href="NISTXML-NMTOKEN-maxLength-3-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-3-5" href="NISTXML-NMTOKEN-maxLength-3-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-maxLength-4" href="NISTSchema-NMTOKEN-maxLength-4.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-maxLength-4,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet maxLength with a value of: 35
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-4-1" href="NISTXML-NMTOKEN-maxLength-4-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-4-2" href="NISTXML-NMTOKEN-maxLength-4-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-4-3" href="NISTXML-NMTOKEN-maxLength-4-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-4-4" href="NISTXML-NMTOKEN-maxLength-4-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-4-5" href="NISTXML-NMTOKEN-maxLength-4-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-maxLength-5" href="NISTSchema-NMTOKEN-maxLength-5.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-maxLength-5,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet maxLength with a value of: 64
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-5-1" href="NISTXML-NMTOKEN-maxLength-5-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-5-2" href="NISTXML-NMTOKEN-maxLength-5-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-5-3" href="NISTXML-NMTOKEN-maxLength-5-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-5-4" href="NISTXML-NMTOKEN-maxLength-5-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-maxLength-5-5" href="NISTXML-NMTOKEN-maxLength-5-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-maxLength-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-maxLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="minLength" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-minLength">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-minLength-1" href="NISTSchema-NMTOKEN-minLength-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-minLength-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet minLength with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-1-1" href="NISTXML-NMTOKEN-minLength-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-1-2" href="NISTXML-NMTOKEN-minLength-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-1-3" href="NISTXML-NMTOKEN-minLength-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-1-4" href="NISTXML-NMTOKEN-minLength-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-1-5" href="NISTXML-NMTOKEN-minLength-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-minLength-2" href="NISTSchema-NMTOKEN-minLength-2.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-minLength-2,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet minLength with a value of: 58
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-2-1" href="NISTXML-NMTOKEN-minLength-2-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-2-2" href="NISTXML-NMTOKEN-minLength-2-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-2-3" href="NISTXML-NMTOKEN-minLength-2-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-2-4" href="NISTXML-NMTOKEN-minLength-2-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-2-5" href="NISTXML-NMTOKEN-minLength-2-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-minLength-3" href="NISTSchema-NMTOKEN-minLength-3.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-minLength-3,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet minLength with a value of: 42
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-3-1" href="NISTXML-NMTOKEN-minLength-3-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-3-2" href="NISTXML-NMTOKEN-minLength-3-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-3-3" href="NISTXML-NMTOKEN-minLength-3-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-3-4" href="NISTXML-NMTOKEN-minLength-3-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-3-5" href="NISTXML-NMTOKEN-minLength-3-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-minLength-4" href="NISTSchema-NMTOKEN-minLength-4.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-minLength-4,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet minLength with a value of: 47
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-4-1" href="NISTXML-NMTOKEN-minLength-4-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-4-2" href="NISTXML-NMTOKEN-minLength-4-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-4-3" href="NISTXML-NMTOKEN-minLength-4-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-4-4" href="NISTXML-NMTOKEN-minLength-4-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-4-5" href="NISTXML-NMTOKEN-minLength-4-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-minLength-5" href="NISTSchema-NMTOKEN-minLength-5.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-minLength-5,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet minLength with a value of: 64
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-5-1" href="NISTXML-NMTOKEN-minLength-5-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-5-2" href="NISTXML-NMTOKEN-minLength-5-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-5-3" href="NISTXML-NMTOKEN-minLength-5-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-5-4" href="NISTXML-NMTOKEN-minLength-5-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-minLength-5-5" href="NISTXML-NMTOKEN-minLength-5-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-minLength-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-minLength-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="length" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-length">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-length-1" href="NISTSchema-NMTOKEN-length-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-length-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-length-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet length with a value of: 1
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-length-1-1" href="NISTXML-NMTOKEN-length-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-1-2" href="NISTXML-NMTOKEN-length-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-1-3" href="NISTXML-NMTOKEN-length-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-1-4" href="NISTXML-NMTOKEN-length-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-1-5" href="NISTXML-NMTOKEN-length-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-length-2" href="NISTSchema-NMTOKEN-length-2.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-length-2.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-length-2,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet length with a value of: 55
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-length-2-1" href="NISTXML-NMTOKEN-length-2-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-2-2" href="NISTXML-NMTOKEN-length-2-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-2-3" href="NISTXML-NMTOKEN-length-2-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-2-4" href="NISTXML-NMTOKEN-length-2-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-2-5" href="NISTXML-NMTOKEN-length-2-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-length-3" href="NISTSchema-NMTOKEN-length-3.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-length-3.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-length-3,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet length with a value of: 34
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-length-3-1" href="NISTXML-NMTOKEN-length-3-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-3-2" href="NISTXML-NMTOKEN-length-3-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-3-3" href="NISTXML-NMTOKEN-length-3-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-3-4" href="NISTXML-NMTOKEN-length-3-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-3-5" href="NISTXML-NMTOKEN-length-3-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-length-4" href="NISTSchema-NMTOKEN-length-4.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-length-4.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-length-4,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet length with a value of: 16
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-length-4-1" href="NISTXML-NMTOKEN-length-4-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-4-2" href="NISTXML-NMTOKEN-length-4-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-4-3" href="NISTXML-NMTOKEN-length-4-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-4-4" href="NISTXML-NMTOKEN-length-4-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-4-5" href="NISTXML-NMTOKEN-length-4-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-length-5" href="NISTSchema-NMTOKEN-length-5.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-length-5.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-length-5,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet length with a value of: 64
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-length-5-1" href="NISTXML-NMTOKEN-length-5-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-5-2" href="NISTXML-NMTOKEN-length-5-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-5-3" href="NISTXML-NMTOKEN-length-5-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-5-4" href="NISTXML-NMTOKEN-length-5-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-length-5-5" href="NISTXML-NMTOKEN-length-5-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-length-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-length-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="pattern" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-pattern">
+
+<Notes>
+The generalized regular expressions from which pattern specifications are derived
+for the various types are as follows:
+
+decimal::= \-?\d{0,t-f}(\.\d{1,f})?
+	Where:
+	\- is the optional negative sign
+	\d is any digit (same as [0-9]);
+ 	\. represents the decimal point;
+	t is the total number of digits in the string (ie the value of the totalDigits facet);
+	f is the number of digits in the fractional part of the number (ie the value of
+	the fractionDigits facet).
+
+	This pattern applies to decimal and all its derivatives, in combination with any
+        	further constraints (e.g. for integer, fractionDigits must == 0).
+
+gYear::= [1970-2030]
+
+gYearMonth::= gYear \-((0,[1-9]) | (1,[0-2]))
+
+date::= gYearMonth \-(([0-2],[0-9])|(3,[0-1]))
+
+                Note: Dates such as February 31 are disallowed.
+
+time::= (([0-1],[0-9])|(2,[0-3])) ':' ([0-5],[0-9]) ':' ([0-5],[0-9])
+
+dateTime::= date 'T' time
+
+                Note: Dates such as February 31 are disallowed.
+
+gMonthDay::= \-\-((0,[1-9]) | (1,[0-2]))\-(([0-2],[0-9])|(3,[0-1]))
+
+gDay::= \-\-\-(([0-2],[0-9])|(3,[0-1]))
+
+gMonth::= \-\-((0,[1-9]) | (1,[0-2]))\-\-
+
+duration::= 'P' [1970-2030] 'Y' ((0,[1-9]) | (1,[0-2])) 'M' (([0-2],[0-9])|(3,[0-1])) 'DT' (([0-1],[0-9])|(2,[0-3])) 'H' ([0-5],[0-9]) 'M' ([0-5],[0-9]) 'S'
+
+double::= decimal 'E' [(-1075)-970]
+
+float::= decimal 'E' [(-149)-104]
+
+string::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' \n([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+normalizedString::= \d{1, 5}\s([A-Z][a-z]{1, 20}\s){1, 5} 'Street' ([A-Z][a-z]{1, 20}\s){1, 3},[A-Z]{2}\s\d{5}(\-\d{4})?
+
+
+token::= normalizedString
+
+language::= ([a-zA-Z]{2}|[iI]-[a-zA-Z]+|[xX]-[a-zA-Z]{1, 8})(-[a-zA-Z]{1, 8})*
+
+Name::= \i\c*
+
+NCName::= Name
+
+	Note: ":" is disallowed.
+
+ID::= NCName
+
+boolean::= [0|1|true|false]
+
+base64Binary::= [a-zA-Z0-9+/]+
+
+hexBinary::= [0-9A-F]+
+
+anyURI::= [http://|http://www.|ftp://|ftp://ftp.|telnet://|gopher://](\c+)[.com|.edu|.org|.gov]
+
+QName::= (NCName ':')?NCName
+
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-pattern-1" href="NISTSchema-NMTOKEN-pattern-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-pattern-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet pattern with a value of: \c{5}
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-1-1" href="NISTXML-NMTOKEN-pattern-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-1-2" href="NISTXML-NMTOKEN-pattern-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-1-3" href="NISTXML-NMTOKEN-pattern-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-1-4" href="NISTXML-NMTOKEN-pattern-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-1-5" href="NISTXML-NMTOKEN-pattern-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-pattern-2" href="NISTSchema-NMTOKEN-pattern-2.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-pattern-2,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet pattern with a value of: \c{26}
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-2-1" href="NISTXML-NMTOKEN-pattern-2-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-2-2" href="NISTXML-NMTOKEN-pattern-2-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-2-3" href="NISTXML-NMTOKEN-pattern-2-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-2-4" href="NISTXML-NMTOKEN-pattern-2-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-2-5" href="NISTXML-NMTOKEN-pattern-2-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-pattern-3" href="NISTSchema-NMTOKEN-pattern-3.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-pattern-3,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet pattern with a value of: \c{5}
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-3-1" href="NISTXML-NMTOKEN-pattern-3-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-3-2" href="NISTXML-NMTOKEN-pattern-3-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-3-3" href="NISTXML-NMTOKEN-pattern-3-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-3-4" href="NISTXML-NMTOKEN-pattern-3-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-3-5" href="NISTXML-NMTOKEN-pattern-3-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-pattern-4" href="NISTSchema-NMTOKEN-pattern-4.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-pattern-4,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet pattern with a value of: \c{22}
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-4-1" href="NISTXML-NMTOKEN-pattern-4-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-4-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-4-2" href="NISTXML-NMTOKEN-pattern-4-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-4-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-4-3" href="NISTXML-NMTOKEN-pattern-4-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-4-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-4-4" href="NISTXML-NMTOKEN-pattern-4-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-4-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-4-5" href="NISTXML-NMTOKEN-pattern-4-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-4-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-pattern-5" href="NISTSchema-NMTOKEN-pattern-5.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-pattern-5,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet pattern with a value of: \c{33}
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-5-1" href="NISTXML-NMTOKEN-pattern-5-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-5-2" href="NISTXML-NMTOKEN-pattern-5-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-5-3" href="NISTXML-NMTOKEN-pattern-5-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-5-4" href="NISTXML-NMTOKEN-pattern-5-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-pattern-5-5" href="NISTXML-NMTOKEN-pattern-5-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-pattern-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-pattern-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="enumeration" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-enumeration">
+
+<Notes>
+The value space defined by an enumeration has a minimum of 1 and a maximum of
+20 values.
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-enumeration-1" href="NISTSchema-NMTOKEN-enumeration-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-enumeration-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet enumeration with values of:
+          developmen
+          file
+          DOM:co
+          issues_of:XML_and-w
+          business-enforcement::link-chain.commun
+          templa
+          global_two.be_life-in.of-files_a
+          s
+          bottlenecks.Reference.known_information_back.systems.wireles
+          the:the:g-the_high.our:and-for.heterogeneous-Extensi
+          to_ways_interconnected:computed:
+          of.achieved_set.build-foster_Sp
+          has-systems-of-pico-cellular.be:the.impact:and_protot
+          are-the-define_the-today_guidelin
+          and.virtu
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-1-1" href="NISTXML-NMTOKEN-enumeration-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-1-2" href="NISTXML-NMTOKEN-enumeration-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-1-3" href="NISTXML-NMTOKEN-enumeration-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-1-4" href="NISTXML-NMTOKEN-enumeration-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-1-5" href="NISTXML-NMTOKEN-enumeration-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-enumeration-2" href="NISTSchema-NMTOKEN-enumeration-2.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-enumeration-2,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet enumeration with values of:
+          used-systems-system-applications:The:
+          to_XML-related:provide:bandwidth_of-file_the:the:t
+          suite.Communit
+          are.about_to:tech
+          industry:complete.to_one-disc
+          of-international.specifications.effectively_certain_of:Acade
+          and:XML.solve_of_need_associated-particularly.on.issues.specifi
+          In.standards-for.and-has:areas-possib
+          in_software.joint_language:software.industr
+          medium-sized:for-lies.s
+          filter_also-can_robust_Language:soft
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-2-1" href="NISTXML-NMTOKEN-enumeration-2-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-2-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-2-2" href="NISTXML-NMTOKEN-enumeration-2-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-2-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-2-3" href="NISTXML-NMTOKEN-enumeration-2-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-2-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-2-4" href="NISTXML-NMTOKEN-enumeration-2-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-2-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-2-5" href="NISTXML-NMTOKEN-enumeration-2-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-2-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-2.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-enumeration-3" href="NISTSchema-NMTOKEN-enumeration-3.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-enumeration-3,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet enumeration with values of:
+          wireless:is:that.to:care:partnersh
+          transactiona
+          through:networking-the:It_used:vocabularies-has_as.files_manip
+          A.also:
+          industry.pro
+          EXiST:the.files-indust
+          th
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-3-1" href="NISTXML-NMTOKEN-enumeration-3-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-3-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-3-2" href="NISTXML-NMTOKEN-enumeration-3-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-3-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-3-3" href="NISTXML-NMTOKEN-enumeration-3-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-3-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-3-4" href="NISTXML-NMTOKEN-enumeration-3-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-3-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-3-5" href="NISTXML-NMTOKEN-enumeration-3-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-3-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-3.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-enumeration-4" href="NISTSchema-NMTOKEN-enumeration-4.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-enumeration-4,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet enumeration with values of:
+          XML_discovery-outfitting:partnerships-to-information
+          range_create-groups:law-OASIS-m
+          and.able-choices-results_that_being.In
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-4-1" href="NISTXML-NMTOKEN-enumeration-4-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-4-1.xml
+      XML instance number 1 in a series of 
+      3 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-4-2" href="NISTXML-NMTOKEN-enumeration-4-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-4-2.xml
+      XML instance number 2 in a series of 
+      3 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-4-3" href="NISTXML-NMTOKEN-enumeration-4-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-4-3.xml
+      XML instance number 3 in a series of 
+      3 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-4.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+<Schema  name="NISTSchema-NMTOKEN-enumeration-5" href="NISTSchema-NMTOKEN-enumeration-5.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-enumeration-5,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet enumeration with values of:
+          Information-and_establish:app
+          from-the.between.body_between.domains:and.and.EXiST:way.objec
+          enough-such:filte
+          as:a.with-over_certain-key-choices.information.are_match
+          paradigm.applications_to_consortium.Pervasive_shift
+          structured:computing.better_objective:of.EC:formed-m
+          files_leadership.to-good_the_of-Schemas.the:come:quality:wirel
+          contributor.a_data:personal_application_t
+          mediums.A-used_desktop_simulation_not-visibly:support.older-a
+          working:promises-to:from-degree_used.XML:we
+          called_can-these_U_consortium.Virtually_OASIS_
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-5-1" href="NISTXML-NMTOKEN-enumeration-5-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-5-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-5-2" href="NISTXML-NMTOKEN-enumeration-5-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-5-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-5-3" href="NISTXML-NMTOKEN-enumeration-5-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-5-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-5-4" href="NISTXML-NMTOKEN-enumeration-5-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-5-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-enumeration-5-5" href="NISTXML-NMTOKEN-enumeration-5-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-enumeration-5-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-enumeration-5.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+<Facet Name="whiteSpace" href="http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#rf-whiteSpace">
+
+<Notes>
+
+</Notes>
+
+<Schema  name="NISTSchema-NMTOKEN-whiteSpace-1" href="NISTSchema-NMTOKEN-whiteSpace-1.xsd">
+
+<Notes>
+      File: NISTSchema-NMTOKEN-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-NMTOKEN-whiteSpace-1,
+      which is derived by restriction of built-in type NMTOKEN
+      by facet whiteSpace with a value of: collapse
+
+</Notes>
+
+<Instance  name="NISTXML-NMTOKEN-whiteSpace-1-1" href="NISTXML-NMTOKEN-whiteSpace-1-1.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-whiteSpace-1-1.xml
+      XML instance number 1 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-whiteSpace-1-2" href="NISTXML-NMTOKEN-whiteSpace-1-2.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-whiteSpace-1-2.xml
+      XML instance number 2 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-whiteSpace-1-3" href="NISTXML-NMTOKEN-whiteSpace-1-3.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-whiteSpace-1-3.xml
+      XML instance number 3 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-whiteSpace-1-4" href="NISTXML-NMTOKEN-whiteSpace-1-4.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-whiteSpace-1-4.xml
+      XML instance number 4 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+<Instance  name="NISTXML-NMTOKEN-whiteSpace-1-5" href="NISTXML-NMTOKEN-whiteSpace-1-5.xml">
+
+<Notes>
+      File: NISTXML-NMTOKEN-whiteSpace-1-5.xml
+      XML instance number 5 in a series of 
+      5 conforming to NIST test schema
+      NISTSchema-NMTOKEN-whiteSpace-1.xsd.
+
+</Notes>
+
+
+</Instance>
+
+
+</Schema>
+
+
+</Facet>
+
+
+</Type>
+
+</NISTXMLSchemaTypeTests>

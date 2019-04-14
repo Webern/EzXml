@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!-- @attr must be at most 10 characters -->
+<foo:root xmlns:foo="http://foo.com">
+	<child>   </child>
+	<child>atleast3</child>
+	<child>10atmost  </child>
+	<child attr="1234567890"> jjj </child>
+</foo:root>

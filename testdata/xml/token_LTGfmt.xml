@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-token-maxLength-1-1" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-1,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-2-1" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-2,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 77
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-2-2" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-2,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 77
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-2-3" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-2,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 77
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-2-4" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-2,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 77
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-2-5" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-2,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 77
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-3-1" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-3,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 387
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-3-2" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-3,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 387
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-3-3" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-3,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 387
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-3-4" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-3,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 387
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-3-5" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-3,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 387
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-4-1" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-4,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 251
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-4-2" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-4,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 251
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-4-3" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-4,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 251
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-4-4" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-4,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 251
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-4-5" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-4,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 251
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-5-1" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-5,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-5-2" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-5,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-5-3" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-5,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-5-4" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-5,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-maxLength-5-5" origin="NIST"><description>
+      File: NISTSchema-token-maxLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-maxLength-5,
+      which is derived by restriction of built-in type token
+      by facet maxLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-maxLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-maxLength-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-1-1" origin="NIST"><description>
+      File: NISTSchema-token-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-1,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-1-2" origin="NIST"><description>
+      File: NISTSchema-token-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-1,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-1-3" origin="NIST"><description>
+      File: NISTSchema-token-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-1,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-1-4" origin="NIST"><description>
+      File: NISTSchema-token-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-1,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-1-5" origin="NIST"><description>
+      File: NISTSchema-token-minLength-1.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-1,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-2-1" origin="NIST"><description>
+      File: NISTSchema-token-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-2,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 895
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-2-2" origin="NIST"><description>
+      File: NISTSchema-token-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-2,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 895
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-2-3" origin="NIST"><description>
+      File: NISTSchema-token-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-2,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 895
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-2-4" origin="NIST"><description>
+      File: NISTSchema-token-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-2,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 895
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-2-5" origin="NIST"><description>
+      File: NISTSchema-token-minLength-2.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-2,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 895
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-3-1" origin="NIST"><description>
+      File: NISTSchema-token-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-3,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 380
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-3-2" origin="NIST"><description>
+      File: NISTSchema-token-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-3,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 380
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-3-3" origin="NIST"><description>
+      File: NISTSchema-token-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-3,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 380
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-3-4" origin="NIST"><description>
+      File: NISTSchema-token-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-3,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 380
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-3-5" origin="NIST"><description>
+      File: NISTSchema-token-minLength-3.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-3,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 380
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-4-1" origin="NIST"><description>
+      File: NISTSchema-token-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-4,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 493
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-4-2" origin="NIST"><description>
+      File: NISTSchema-token-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-4,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 493
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-4-3" origin="NIST"><description>
+      File: NISTSchema-token-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-4,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 493
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-4-4" origin="NIST"><description>
+      File: NISTSchema-token-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-4,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 493
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-4-5" origin="NIST"><description>
+      File: NISTSchema-token-minLength-4.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-4,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 493
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-5-1" origin="NIST"><description>
+      File: NISTSchema-token-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-5,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-5-2" origin="NIST"><description>
+      File: NISTSchema-token-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-5,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-5-3" origin="NIST"><description>
+      File: NISTSchema-token-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-5,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-5-4" origin="NIST"><description>
+      File: NISTSchema-token-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-5,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-minLength-5-5" origin="NIST"><description>
+      File: NISTSchema-token-minLength-5.xsd
+      This schema specifies a datatype, NISTSchema-token-minLength-5,
+      which is derived by restriction of built-in type token
+      by facet minLength with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-minLength-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-minLength-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-1-1" origin="NIST"><description>
+      File: NISTSchema-token-length-1.xsd
+      This schema specifies a datatype, NISTSchema-token-length-1,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-2-1" origin="NIST"><description>
+      File: NISTSchema-token-length-2.xsd
+      This schema specifies a datatype, NISTSchema-token-length-2,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 470
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-2-2" origin="NIST"><description>
+      File: NISTSchema-token-length-2.xsd
+      This schema specifies a datatype, NISTSchema-token-length-2,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 470
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-2-3" origin="NIST"><description>
+      File: NISTSchema-token-length-2.xsd
+      This schema specifies a datatype, NISTSchema-token-length-2,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 470
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-2-4" origin="NIST"><description>
+      File: NISTSchema-token-length-2.xsd
+      This schema specifies a datatype, NISTSchema-token-length-2,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 470
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-2-5" origin="NIST"><description>
+      File: NISTSchema-token-length-2.xsd
+      This schema specifies a datatype, NISTSchema-token-length-2,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 470
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-3-1" origin="NIST"><description>
+      File: NISTSchema-token-length-3.xsd
+      This schema specifies a datatype, NISTSchema-token-length-3,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 905
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-3-2" origin="NIST"><description>
+      File: NISTSchema-token-length-3.xsd
+      This schema specifies a datatype, NISTSchema-token-length-3,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 905
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-3-3" origin="NIST"><description>
+      File: NISTSchema-token-length-3.xsd
+      This schema specifies a datatype, NISTSchema-token-length-3,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 905
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-3-4" origin="NIST"><description>
+      File: NISTSchema-token-length-3.xsd
+      This schema specifies a datatype, NISTSchema-token-length-3,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 905
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-3-5" origin="NIST"><description>
+      File: NISTSchema-token-length-3.xsd
+      This schema specifies a datatype, NISTSchema-token-length-3,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 905
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-4-1" origin="NIST"><description>
+      File: NISTSchema-token-length-4.xsd
+      This schema specifies a datatype, NISTSchema-token-length-4,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 569
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-4-2" origin="NIST"><description>
+      File: NISTSchema-token-length-4.xsd
+      This schema specifies a datatype, NISTSchema-token-length-4,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 569
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-4-3" origin="NIST"><description>
+      File: NISTSchema-token-length-4.xsd
+      This schema specifies a datatype, NISTSchema-token-length-4,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 569
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-4-4" origin="NIST"><description>
+      File: NISTSchema-token-length-4.xsd
+      This schema specifies a datatype, NISTSchema-token-length-4,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 569
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-4-5" origin="NIST"><description>
+      File: NISTSchema-token-length-4.xsd
+      This schema specifies a datatype, NISTSchema-token-length-4,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 569
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-5-1" origin="NIST"><description>
+      File: NISTSchema-token-length-5.xsd
+      This schema specifies a datatype, NISTSchema-token-length-5,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-5-2" origin="NIST"><description>
+      File: NISTSchema-token-length-5.xsd
+      This schema specifies a datatype, NISTSchema-token-length-5,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-5-3" origin="NIST"><description>
+      File: NISTSchema-token-length-5.xsd
+      This schema specifies a datatype, NISTSchema-token-length-5,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-5-4" origin="NIST"><description>
+      File: NISTSchema-token-length-5.xsd
+      This schema specifies a datatype, NISTSchema-token-length-5,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-length-5-5" origin="NIST"><description>
+      File: NISTSchema-token-length-5.xsd
+      This schema specifies a datatype, NISTSchema-token-length-5,
+      which is derived by restriction of built-in type token
+      by facet length with a value of: 1000
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-length-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-length-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-token-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-1,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s14297
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-token-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-1,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s14297
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-token-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-1,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s14297
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-token-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-1,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s14297
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-token-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-1,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s14297
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-token-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-2,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){2}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s12230-1968
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-token-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-2,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){2}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s12230-1968
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-token-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-2,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){2}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s12230-1968
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-token-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-2,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){2}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s12230-1968
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-token-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-2,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){2}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s12230-1968
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-token-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-3,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){3}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s18640
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-token-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-3,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){3}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s18640
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-token-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-3,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){3}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s18640
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-token-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-3,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){3}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s18640
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-token-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-3,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){3}Street\s([A-Z][a-z]{1,20}\s){1},\s[A-Z]{2}\s18640
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-4-1" origin="NIST"><description>
+      File: NISTSchema-token-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-4,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){3},\s[A-Z]{2}\s15549-1978
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-4-2" origin="NIST"><description>
+      File: NISTSchema-token-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-4,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){3},\s[A-Z]{2}\s15549-1978
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-4-3" origin="NIST"><description>
+      File: NISTSchema-token-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-4,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){3},\s[A-Z]{2}\s15549-1978
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-4-4" origin="NIST"><description>
+      File: NISTSchema-token-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-4,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){3},\s[A-Z]{2}\s15549-1978
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-4-5" origin="NIST"><description>
+      File: NISTSchema-token-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-4,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){5}Street\s([A-Z][a-z]{1,20}\s){3},\s[A-Z]{2}\s15549-1978
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-5-1" origin="NIST"><description>
+      File: NISTSchema-token-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-5,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){4}Street\s([A-Z][a-z]{1,20}\s){2},\s[A-Z]{2}\s13121-1314
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-5-2" origin="NIST"><description>
+      File: NISTSchema-token-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-5,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){4}Street\s([A-Z][a-z]{1,20}\s){2},\s[A-Z]{2}\s13121-1314
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-5-3" origin="NIST"><description>
+      File: NISTSchema-token-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-5,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){4}Street\s([A-Z][a-z]{1,20}\s){2},\s[A-Z]{2}\s13121-1314
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-5-4" origin="NIST"><description>
+      File: NISTSchema-token-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-5,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){4}Street\s([A-Z][a-z]{1,20}\s){2},\s[A-Z]{2}\s13121-1314
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-pattern-5-5" origin="NIST"><description>
+      File: NISTSchema-token-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-token-pattern-5,
+      which is derived by restriction of built-in type token
+      by facet pattern with a value of: \d{1,5}\s([A-Z][a-z]{1,20}\s){4}Street\s([A-Z][a-z]{1,20}\s){2},\s[A-Z]{2}\s13121-1314
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-pattern-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-1,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          to
+          for
+          a
+          wireless
+          these
+          industry
+          both
+          XML
+          commerce
+          available
+          robust
+          of
+          choices
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-1,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          to
+          for
+          a
+          wireless
+          these
+          industry
+          both
+          XML
+          commerce
+          available
+          robust
+          of
+          choices
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-1,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          to
+          for
+          a
+          wireless
+          these
+          industry
+          both
+          XML
+          commerce
+          available
+          robust
+          of
+          choices
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-1,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          to
+          for
+          a
+          wireless
+          these
+          industry
+          both
+          XML
+          commerce
+          available
+          robust
+          of
+          choices
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-1,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          to
+          for
+          a
+          wireless
+          these
+          industry
+          both
+          XML
+          commerce
+          available
+          robust
+          of
+          choices
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-2,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          Although
+          Errors
+          Additionally
+          are
+          eXtensible
+          software
+          transmit
+          two
+          Furthermore
+          computing
+          XML
+          known
+          prototype
+          offer
+          allow
+          and
+          will
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-2,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          Although
+          Errors
+          Additionally
+          are
+          eXtensible
+          software
+          transmit
+          two
+          Furthermore
+          computing
+          XML
+          known
+          prototype
+          offer
+          allow
+          and
+          will
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-2,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          Although
+          Errors
+          Additionally
+          are
+          eXtensible
+          software
+          transmit
+          two
+          Furthermore
+          computing
+          XML
+          known
+          prototype
+          offer
+          allow
+          and
+          will
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-2,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          Although
+          Errors
+          Additionally
+          are
+          eXtensible
+          software
+          transmit
+          two
+          Furthermore
+          computing
+          XML
+          known
+          prototype
+          offer
+          allow
+          and
+          will
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-2,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          Although
+          Errors
+          Additionally
+          are
+          eXtensible
+          software
+          transmit
+          two
+          Furthermore
+          computing
+          XML
+          known
+          prototype
+          offer
+          allow
+          and
+          will
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-3,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          The
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-3,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          The
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-3,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          The
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-3,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          The
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-3,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          The
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-4,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          systems
+          transactional
+          of
+          for
+          become
+          organizations
+          correctness
+          business
+          manage
+          tools
+          As
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-4,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          systems
+          transactional
+          of
+          for
+          become
+          organizations
+          correctness
+          business
+          manage
+          tools
+          As
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-4,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          systems
+          transactional
+          of
+          for
+          become
+          organizations
+          correctness
+          business
+          manage
+          tools
+          As
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-4,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          systems
+          transactional
+          of
+          for
+          become
+          organizations
+          correctness
+          business
+          manage
+          tools
+          As
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-4,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          systems
+          transactional
+          of
+          for
+          become
+          organizations
+          correctness
+          business
+          manage
+          tools
+          As
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-5,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          versions
+          that
+          its
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-5,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          versions
+          that
+          its
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-5,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          versions
+          that
+          its
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-5,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          versions
+          that
+          its
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-token-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-token-enumeration-5,
+      which is derived by restriction of built-in type token
+      by facet enumeration with values of:
+          versions
+          that
+          its
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-token-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-token-whiteSpace-1,
+      which is derived by restriction of built-in type token
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-token-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-token-whiteSpace-1,
+      which is derived by restriction of built-in type token
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-token-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-token-whiteSpace-1,
+      which is derived by restriction of built-in type token
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-token-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-token-whiteSpace-1,
+      which is derived by restriction of built-in type token
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-token-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-token-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-token-whiteSpace-1,
+      which is derived by restriction of built-in type token
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-token-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-token-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

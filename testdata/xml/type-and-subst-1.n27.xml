@@ -1,0 +1,4 @@
+			<root xmlns="foo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<eDee xsi:type="B"  ><foo/></eDee>
+			</root>
+

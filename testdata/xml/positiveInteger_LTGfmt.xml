@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-positiveInteger-minExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 98982922299280950982
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 30357994594089288131
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 62580895148002368965
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minExclusive with a value of: 99999999999999999998
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 83506608920277514140
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 2757049649593878993
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 35874103269231083502
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-minInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-minInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet minInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-minInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-minInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 2
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 36233085655750330023
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 75754388579641751544
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 47304829668459869030
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxExclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxExclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxExclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxExclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 49997522270383398801
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 67879797121649088076
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 22088302140907045690
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-maxInclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-maxInclusive-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet maxInclusive with a value of: 99999999999999999999
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-maxInclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-fractionDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-fractionDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-fractionDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-fractionDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-fractionDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-fractionDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-fractionDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-fractionDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-fractionDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-fractionDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-fractionDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 9
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 13
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-5-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-5-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-5-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-totalDigits-5-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-totalDigits-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet totalDigits with a value of: 20
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-totalDigits-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{9}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{13}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-5-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-5-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-5-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-pattern-5-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-pattern-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet pattern with a value of: \d{20}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-pattern-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          550215893734272
+          846254534438580785
+          43876110718277
+          7792480394466
+          9936
+          5547
+          4305434507488021
+          652408347111
+          68527470033184856301
+          421066425355950
+          6991035
+          9793440067111577
+          865014204294391
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-2,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          4319776478305440425
+          168992089292572589
+          17
+          73
+          9018128006869
+          35008621271819
+          5329577103
+          3268924300688627049
+          24560412427
+          243
+          112713568266571
+          987665007443
+          4277904121971298
+          99
+          89971416582
+          83009035
+          48731683
+          958164959
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-3,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          417348339
+          607206259964600869
+          2758503784426
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-4,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          43567
+          63
+          968144326202
+          4851754
+          656130644411529129
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-enumeration-5,
+      which is derived by restriction of built-in type positiveInteger
+      by facet enumeration with values of:
+          10179937916181291956
+          6
+          6878594880325160
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-positiveInteger-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-positiveInteger-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-positiveInteger-whiteSpace-1,
+      which is derived by restriction of built-in type positiveInteger
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-positiveInteger-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-positiveInteger-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

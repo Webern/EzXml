@@ -10,12 +10,12 @@ namespace ezxml
     JDocPtr XFactory::makeJDoc(
         std::string inRootElement,
         std::string inAttributePrefix,
-        std::string inArrayItemElement )
+        std::string inArrayNameSuffix  )
     {
         return std::make_shared<JDocImpl>(
             std::move( inRootElement ),
             std::move( inAttributePrefix ),
-            std::move( inArrayItemElement ) );
+            std::move( inArrayNameSuffix ) );
     }
 
     XDocPtr XFactory::makeXDoc()

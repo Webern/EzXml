@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?><tests><test id="NISTXML-unsignedInt-minExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 822837152
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3431485162
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 3962689390
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minExclusive with a value of: 4294967294
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 3373743551
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 1109662146
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 730504109
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-minInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-minInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-minInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet minInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-minInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-minInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 2172646844
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 368214369
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 3717399159
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxExclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxExclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxExclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxExclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxExclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxExclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 792788768
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4020115371
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 1576927029
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-maxInclusive-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-maxInclusive-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-maxInclusive-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet maxInclusive with a value of: 4294967295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-maxInclusive-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-maxInclusive-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-fractionDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-fractionDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-fractionDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-fractionDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-fractionDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-fractionDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-fractionDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-fractionDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-fractionDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-fractionDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-fractionDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet fractionDigits with a value of: 0
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-fractionDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-fractionDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 1
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 3
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 5
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 7
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-totalDigits-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-totalDigits-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-totalDigits-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet totalDigits with a value of: 10
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-totalDigits-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-totalDigits-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{1}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{3}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{5}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{7}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-pattern-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-pattern-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-pattern-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet pattern with a value of: \d{10}
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-pattern-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-pattern-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          688566
+          993
+          356
+          7146546
+          717
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-1-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-2-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-2-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-2-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-2-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-2-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-2-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-2-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-2-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-2-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-2.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-2,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          18613
+          376647094
+          61
+          93
+          64825
+          6423187
+          94275
+          2355537
+          19232
+          7
+          844
+          84930585
+          2
+          8
+          199069810
+          110305092
+          79
+          684099
+          70798952
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-2.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-2-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-3-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-3-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-3-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-3-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-3-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-3-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-3-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-3-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-3-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-3.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-3,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          573231403
+          1686
+          51567634
+          12484815
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-3.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-3-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-4-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-4-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-4-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-4-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-4-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-4-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-4-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-4-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-4-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-4.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-4,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          780
+          3003646
+          784964
+          9256
+          4963383
+          8752
+          10210
+          479478
+          2885
+          560621
+          13469037
+          55546
+          4266
+          82189107
+          122418
+          341263
+          26579605
+          949174085
+          4294967295
+          639932295
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-4.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-4-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-5-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-5-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-5-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-5-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-5-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-5-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-5-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-5-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-enumeration-5-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-enumeration-5.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-enumeration-5,
+      which is derived by restriction of built-in type unsignedInt
+      by facet enumeration with values of:
+          447
+          72692
+          461
+          79130
+          25
+          66735
+          1
+          6
+          30299054
+          50
+          3451025559
+          499424
+          836415
+          532108
+          3
+          6279632
+          2017
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-enumeration-5.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-enumeration-5-5.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-whiteSpace-1-1" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-whiteSpace-1-1.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-whiteSpace-1-2" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-whiteSpace-1-2.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-whiteSpace-1-3" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-whiteSpace-1-3.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-whiteSpace-1-4" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-whiteSpace-1-4.xml" role="instance" validity="1"/></files></test><test id="NISTXML-unsignedInt-whiteSpace-1-5" origin="NIST"><description>
+      File: NISTSchema-unsignedInt-whiteSpace-1.xsd
+      This schema specifies a datatype, NISTSchema-unsignedInt-whiteSpace-1,
+      which is derived by restriction of built-in type unsignedInt
+      by facet whiteSpace with a value of: collapse
+
+</description><files><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTSchema-unsignedInt-whiteSpace-1.xsd" role="schema" validity="1"/><file tsDir="nisttest" folder="NISTTestsAll" fileName="NISTXML-unsignedInt-whiteSpace-1-5.xml" role="instance" validity="1"/></files></test></tests>

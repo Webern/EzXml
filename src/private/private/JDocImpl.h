@@ -16,7 +16,7 @@ namespace ezxml
         virtual ~JDocImpl() = default;
         JDocImpl( std::string inRootElement,
                   std::string inAttributePrefix,
-                  std::string inArrayItemElement );
+                  std::string inArrayNameSuffix );
 
         // these can throw std::runtime_error
         virtual void loadStream( std::istream& is ) override;
@@ -40,7 +40,7 @@ namespace ezxml
     private:
         std::string myRootElement;
         std::string myAttributePrefix;
-        std::string myArrayItemElement;
+        std::string myArrayNameSuffix;
         XDocPtr myXDoc;
 
     private:
