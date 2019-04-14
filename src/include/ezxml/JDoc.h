@@ -2,7 +2,6 @@
 
 #pragma once
 
-#include "ezxml/JDocSpec.h"
 #include "ezxml/XElement.h"
 #include "ezxml/XDoc.h"
 

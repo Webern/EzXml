@@ -3,6 +3,7 @@
 #pragma once
 
 #include "ezxml/XDoc.h"
+#include "ezxml/JDoc.h"
 #include <memory>
 
 namespace ezxml
@@ -10,6 +11,7 @@ namespace ezxml
     class XFactory
     {
     public:
+        static JDocPtr makeJDoc();
         static XDocPtr makeXDoc();
         static XElementPtr makeXElement();
     };

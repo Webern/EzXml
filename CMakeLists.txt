@@ -11,10 +11,22 @@ set(SOURCE_ROOT "./src")
 set(PRIVATE_DIR "${SOURCE_ROOT}/private")
 set(PUBLIC_DIR "${SOURCE_ROOT}/include")
 set(TEST_DIR "${SOURCE_ROOT}/test")
+set(EXTERN_DIR "${SOURCE_ROOT}/extern")
 
 file(GLOB_RECURSE PUBLIC_HEADERS ${PUBLIC_DIR}/ezxml/*.h)
 file(GLOB_RECURSE PRIVATE_HEADERS ${PRIVATE_DIR}/ezx/*.h)
 file(GLOB_RECURSE PRIVATE_CXX ${PRIVATE_DIR}/private/*.cpp)
+
+message(STATUS "${CMAKE_CURRENT_LIST_DIR} (${CMAKE_CURRENT_LIST_LINE}): adding rapidjson subdirectory")
+set(RAPIDJSON_BUILD_DOC OFF CACHE BOOL "" FORCE)
+set(RAPIDJSON_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
+set(RAPIDJSON_BUILD_TESTS OFF CACHE BOOL "" FORCE)
+set(RAPIDJSON_BUILD_CXX11 ON CACHE BOOL "" FORCE)
+set(RAPIDJSON_BUILD_ASAN OFF CACHE BOOL "" FORCE)
+set(RAPIDJSON_BUILD_UBSAN OFF CACHE BOOL "" FORCE)
+set(RAPIDJSON_HAS_STDSTRING ON CACHE BOOL "" FORCE)
+add_subdirectory(${EXTERN_DIR}/rapidjson)
+message(STATUS "${CMAKE_CURRENT_LIST_DIR} (${CMAKE_CURRENT_LIST_LINE}): done adding rapidjson subdirectory")
 
 add_library(ezxml STATIC ${PRIVATE_CXX})
 source_group( "ezxml-public" FILES ${PUBLIC_HEADERS})
@@ -22,6 +34,8 @@ source_group( "ezxml-private" FILES ${PRIVATE_HEADERS} ${PRIVATE_CXX})
 set_property(TARGET ezxml PROPERTY CXX_STANDARD 14)
 target_include_directories(ezxml PUBLIC ${PUBLIC_DIR})
 target_include_directories(ezxml PRIVATE ${PRIVATE_DIR})
+target_include_directories(ezxml PRIVATE ${EXTERN_DIR}/rapidjson/include)
+#target_link_libraries(ezxml rapidjson)
 
 file(WRITE ${TEST_DIR}/Path.h
 "// ezxml, Copyright 2019 by Matthew James Briggs

@@ -6,6 +6,11 @@
 
 namespace ezxml
 {
+    JDocPtr XFactory::makeJDoc()
+    {
+        return JDocPtr{ nullptr };
+    }
+
     XDocPtr XFactory::makeXDoc()
     {
         return XDocPtr{ new PugiDoc{} };
