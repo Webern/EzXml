@@ -17,7 +17,7 @@ namespace ezxml
     class XDoc : public std::enable_shared_from_this<XDoc>
     {
     public:
-        virtual ~XDoc() {}
+        virtual ~XDoc() = default;
 
         // these can throw std::runtime_error
         virtual void loadStream( std::istream& is ) = 0;
