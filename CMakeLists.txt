@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.7.2)
 project(ezxml
         VERSION 0.0.0
-        DESCRIPTION "xml"
-        HOMEPAGE_URL https://github.com/webern/ezxml
         LANGUAGES CXX)
 
 option(EZXML_BUILD_TESTS "build or skip the test suite" OFF)
@@ -21,7 +19,7 @@ file(GLOB_RECURSE PRIVATE_CXX ${PRIVATE_DIR}/private/*.cpp)
 add_library(ezxml STATIC ${PRIVATE_CXX})
 source_group( "ezxml-public" FILES ${PUBLIC_HEADERS})
 source_group( "ezxml-private" FILES ${PRIVATE_HEADERS} ${PRIVATE_CXX})
-set_property(TARGET ezxml PROPERTY CXX_STANDARD 17)
+set_property(TARGET ezxml PROPERTY CXX_STANDARD 14)
 target_include_directories(ezxml PUBLIC ${PUBLIC_DIR})
 target_include_directories(ezxml PRIVATE ${PRIVATE_DIR})
 
@@ -52,7 +50,7 @@ if(EZXML_BUILD_TESTS)
     target_include_directories(ezxml_test PRIVATE ${PRIVATE_DIR})
     target_link_libraries(ezxml_test ezxml)
     target_link_libraries(ezxml_test ${CMAKE_THREAD_LIBS_INIT})
-    set_property(TARGET ezxml_test PROPERTY CXX_STANDARD 17)
+    set_property(TARGET ezxml_test PROPERTY CXX_STANDARD 14)
 else()
     message("tests will not be compiled")
 endif()

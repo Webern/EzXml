@@ -1,6 +1,6 @@
 FROM matthewjamesbriggs/cmake:v001
 
-ENV BASEDIR="/mx"
+ENV BASEDIR="/repo"
 WORKDIR $BASEDIR
 COPY . .
 RUN chmod +x .circleci/dockerfile-test-entrypoint.sh
