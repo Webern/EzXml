@@ -1,0 +1,26 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: matthewjamesbriggs/cmake:v001
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      - run:
+          name: Cmake
+          command: |
+              cmake -DEZXML_BUILD_EXAMPLES=on -DEZXML_BUILD_TESTS=on .      
+      - run:
+          name: Build
+          command: make -j 2
+
+      - run:
+          name: Run Examples
+          command: echo "no examples yet"
+
+      - run:
+          name: Test
+          command: ./ezxml_test
