@@ -45,5 +45,7 @@ namespace ezxml
 
     private:
         void convert( XElementPtr& xparent, const rapidjson::Value& jvalToAdd );
+        bool isArrayName( const std::string& inName ) const;
+        bool isAttributeName( const std::string& inName ) const;
     };
 }

@@ -254,4 +254,24 @@ namespace ezxml
         auto xdoc = toXDoc();
         return xdoc->getRoot();
     }
+
+    bool JDocImpl::isArrayName( const std::string& inName ) const
+    {
+        const auto isBigEnough = inName.size() > myAttributePrefix.size();
+
+        if( !isBigEnough )
+        {
+            return false;
+        }
+
+        const auto isAttribute =
+            inName.size() >= myAttributePrefix.size() &&
+                                                      inName.substr( 0, myAttributePrefix.size() ) == myAttributePrefix;
+    }
+
+
+    bool JDocImpl::isAttributeName( const std::string& inName ) const
+    {
+
+    }
 }
