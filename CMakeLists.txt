@@ -41,6 +41,7 @@ file(WRITE ${TEST_DIR}/Path.h
 
 if(EZXML_BUILD_TESTS)
     message("tests will be compiled")
+    target_compile_options(ezxml PRIVATE -Werror -Wall -Wextra)
     file(GLOB_RECURSE TEST_CXX ${TEST_DIR}/*.cpp)
     file(GLOB_RECURSE TEST_HEADERS ${TEST_CXX}/*.h)
     source_group( "ezxml-test" FILES ${TEST_CXX} ${TEST_HEADERS})
