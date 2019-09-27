@@ -3,6 +3,7 @@
 #include "Catch.h"
 #include "ezxml/ezxml.h"
 #include "Files.h"
+#include "equal.h"
 
 TEST_CASE( "FreezingTest" )
 {
@@ -30,4 +31,8 @@ TEST_CASE( "FreezingTest" )
 
     std::stringstream saveStream;
     xdoc->saveStream( saveStream );
+    std::istringstream iss{ saveStream.str() };
+    auto reified = XFactory::makeXDoc();
+    reified->loadStream( iss );
+    CHECK( "" == equal( xdoc, reified ) );
 }
