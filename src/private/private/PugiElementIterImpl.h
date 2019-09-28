@@ -30,6 +30,10 @@ namespace ezxml
 
         virtual bool getIsPayloadNull() const override;
         virtual bool getIsEndIter() const override;
+        virtual bool getIsProcessingInstruction() const override;
+        virtual bool getSkipProcessingInstructions() const override;
+        virtual void setSkipProcessingInstructions( bool inValue ) override;
+
         virtual XElementIterImplUP clone() const override;
         virtual bool equals( const XElementIterator& other ) const override;
         
@@ -46,6 +50,7 @@ namespace ezxml
     public:
         pugi::xml_node_iterator myIter;
         pugi::xml_node myIterParent;
+        bool mySkipProcessingInstructions;
         XDocCWPtr myXDoc;
         mutable PugiElement myReturnableElement;
     };

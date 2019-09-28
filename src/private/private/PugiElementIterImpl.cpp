@@ -8,6 +8,7 @@ namespace ezxml
     PugiElementIterImpl::PugiElementIterImpl()
     : myIter()
     , myIterParent()
+            , mySkipProcessingInstructions{ true }
     , myXDoc()
     {
         
@@ -20,6 +21,7 @@ namespace ezxml
         const XDocCPtr& parentDoc )
     : myIter( iter )
     , myIterParent( iterParent )
+            , mySkipProcessingInstructions{ true }
     , myXDoc( parentDoc )
     {
 
@@ -57,6 +59,39 @@ namespace ezxml
         }
 
         return false;
+    }
+
+    bool PugiElementIterImpl::getIsProcessingInstruction() const
+    {
+        if( this->getIsEndIter() )
+        {
+            return false;
+        }
+        else if( this->getIsPayloadNull() )
+        {
+            return false;
+        }
+
+        const auto type = myIter->type();
+
+        if( type == pugi::node_pi )
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+
+    bool PugiElementIterImpl::getSkipProcessingInstructions() const
+    {
+        return mySkipProcessingInstructions;
+    }
+
+
+    void PugiElementIterImpl::setSkipProcessingInstructions( bool inValue )
+    {
+        mySkipProcessingInstructions = inValue;
     }
 
 
