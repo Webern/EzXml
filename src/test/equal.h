@@ -3,10 +3,10 @@
 namespace ezxmltest
 {
     inline std::string
-    elementsEqual( const std::string& inParentName, const ezxml::XElementPtr& a, const ezxml::XElementPtr& b );
+    elementsEqual( const std::string& inParentName, const ezxml::XElement& a, const ezxml::XElement& b );
 
     inline std::string
-    elementsEqual(
+    attributesEqual(
             const std::string& inParentName,
             ezxml::XAttributeIterator aitera,
             const ezxml::XAttributeIterator& aenda,
@@ -24,36 +24,138 @@ namespace ezxmltest
             const ezxml::XElementIterator& eendb
     )
     {
-        // TODO - iterate each and call elementsEqual for each
+        bool sameEndish = ( eitera == eenda ) == ( eiterb == eendb );
+
+        if( !sameEndish )
+        {
+            return inParentName + ": one had zero children while the other had some children";
+        }
+
+        for( ; ( eitera != eenda ) && ( eiterb != eendb ); ++eitera, ++eiterb )
+        {
+            if( eitera.getIsPayloadNull() || eiterb.getIsPayloadNull() )
+            {
+                return inParentName + ": cannot proceed due to null xelement";
+            }
+
+            const auto result = elementsEqual( inParentName, *eitera, *eiterb );
+
+            if( !result.empty() )
+            {
+                return result;
+            }
+        }
+
+        sameEndish = ( eitera == eenda ) == ( eiterb == eendb );
+
+        if( !sameEndish )
+        {
+            return inParentName + ": had different numbers of children";
+        }
+
+        return "";
     }
 
 
     inline std::string
-    elementsEqual( const std::string& inParentName, const ezxml::XElementPtr& a, const ezxml::XElementPtr& b )
+    attributesEqual(
+            const std::string& inParentName,
+            ezxml::XAttributeIterator aitera,
+            const ezxml::XAttributeIterator& aenda,
+            ezxml::XAttributeIterator aiterb,
+            const ezxml::XAttributeIterator& aendb
+    )
     {
-        if( a == nullptr || b == nullptr )
+        bool sameEndish = ( aitera == aenda ) == ( aiterb == aendb );
+
+        if( !sameEndish )
         {
-            return "cannot proceed due to null xelement";
+            return inParentName + ": one had zero attributes while the other had some attributes";
         }
 
-        if( a->getName() != b->getName() )
+        for( ; ( aitera != aenda ) && ( aiterb != aendb ); ++aitera, ++aiterb )
         {
-            return inParentName + ": element names not equal: " + a->getName() + " vs " + b->getName();
+            if( aitera->getName() != aiterb->getName() )
+            {
+                return inParentName + ": differing attribute names found, " + aitera->getName() + " vs " +
+                       aiterb->getName();
+            }
+
+            if( aitera->getValue() != aiterb->getValue() )
+            {
+                return inParentName + ": differing attribute values found, " + aitera->getValue() + " vs " +
+                       aiterb->getValue();
+            }
+
         }
 
-        if( a->getType() != b->getType() )
+        sameEndish = ( aitera == aenda ) == ( aiterb == aendb );
+
+        if( !sameEndish )
+        {
+            return inParentName + ": had different numbers of attributes";
+        }
+
+        return "";
+    }
+
+
+    inline std::string
+    elementsEqual( const std::string& inParentName, const ezxml::XElement& a, const ezxml::XElement& b )
+    {
+        const auto myName = a.getName();
+
+        if( myName != b.getName() )
+        {
+            return inParentName + "/" + myName + ": element names not equal: " + myName + " vs " + b.getName();
+        }
+
+        if( a.getType() != b.getType() )
         {
             return inParentName
-                   + "->"
-                   + a->getName()
+                   + "/"
+                   + a.getName()
                    + ": element types not equal: "
-                   + ezxml::toString( a->getType() ) + " vs "
-                   + ezxml::toString( b->getType() );
+                   + ezxml::toString( a.getType() ) + " vs "
+                   + ezxml::toString( b.getType() );
         }
 
-        // TODO - iterate each attribute and compare
+        auto aitera = a.attributesBegin();
+        const auto aenda = a.attributesEnd();
+        auto aiterb = b.attributesBegin();
+        const auto aendb = b.attributesEnd();
 
-        // TODO - iterate child attributes and compare
+        const auto attributeResult = attributesEqual( a.getName(), aitera, aenda, aiterb, aendb );
+
+        if( !attributeResult.empty() )
+        {
+            return attributeResult;
+        }
+
+        if( a.getType() == ezxml::XElementType::element )
+        {
+            auto eitera = a.begin();
+            const auto eenda = a.end();
+            auto eiterb = b.begin();
+            const auto eendb = b.end();
+
+            const auto childrenResult = elementsEqual( a.getName(), eitera, eenda, eiterb, eendb );
+
+            if( !childrenResult.empty() )
+            {
+                return childrenResult;
+            }
+        }
+        else if( a.getType() == ezxml::XElementType::text )
+        {
+            const auto myVal = a.getValue();
+
+            if( myVal != b.getValue() )
+            {
+                return inParentName + "/" + myName + ": element values not equal: " + myVal + " vs " + b.getValue();
+            }
+        }
+
         return "";
     }
 
@@ -104,6 +206,13 @@ namespace ezxmltest
         if( roota == nullptr || rootb == nullptr )
         {
             return "cannot proceed due to a null root";
+        }
+
+        const auto result = elementsEqual( "document", *roota, *rootb );
+
+        if( !result.empty() )
+        {
+            return result;
         }
 
         return "";
