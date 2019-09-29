@@ -3,6 +3,7 @@
 namespace ezxmltest
 {
     constexpr const char* const FREEZING_SMALL = "freezing-small.xml";
+    constexpr const char* const SIMPLE = "simple.xml";
 
 #if defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__)
     constexpr const char* const SLASH = "\\";
@@ -32,7 +33,7 @@ namespace ezxmltest
     inline std::string
     root()
     {
-        std::string r = LY_ROOT;
+        std::string r = EZXML_ROOT;
         return r;
     }
 

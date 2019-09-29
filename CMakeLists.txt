@@ -29,13 +29,13 @@ file(WRITE ${TEST_DIR}/Path.h
 #pragma once
 
 // The absolute path to the root of the repository.
-#ifndef LY_ROOT
-#define LY_ROOT \"${CMAKE_CURRENT_SOURCE_DIR}\"
+#ifndef EZXML_ROOT
+#define EZXML_ROOT \"${CMAKE_CURRENT_SOURCE_DIR}\"
 #endif
 
 // The absolute path to the binary output directory.
-#ifndef LY_BIN
-#define LY_BIN \"${CMAKE_BINARY_DIR}\"
+#ifndef EZXML_BIN
+#define EZXML_BIN \"${CMAKE_BINARY_DIR}\"
 #endif
 ")
 
