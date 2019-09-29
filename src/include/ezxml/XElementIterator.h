@@ -16,7 +16,7 @@ namespace ezxml
 
     public:
         XElementIterator();
-        XElementIterator( const XElementIterImpl& impl );
+        explicit XElementIterator( const XElementIterImpl& impl );
         XElementIterator( const XElementIterator& other );
         XElementIterator( XElementIterator&& other ) = default;
         XElementIterator& operator=( const XElementIterator& other );
@@ -38,10 +38,10 @@ namespace ezxml
         XElement* operator->() const;
 
         const XElementIterator& operator++();
-        XElementIterator operator++( int );
+        const XElementIterator operator++( int );
 
         const XElementIterator& operator--();
-        XElementIterator operator--( int );
+        const XElementIterator operator--( int );
 
         bool getIsPayloadNull() const;
 

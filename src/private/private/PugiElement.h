@@ -20,12 +20,11 @@ namespace ezxml
     {
     public:
         PugiElement();
-        
-        PugiElement(
-            const pugi::xml_node& node,
-            const XDocCPtr& xdoc );
 
-        ~PugiElement() = default;
+        PugiElement(
+                const pugi::xml_node& node,
+                const XDocCPtr& xdoc
+        );
 
         // copy
         PugiElement( const PugiElement& other ) = default;
@@ -57,10 +56,10 @@ namespace ezxml
 
         virtual XElementPtr appendChild( const std::string& name ) override;
         virtual XElementPtr prependChild( const std::string& name ) override;
-        
+
         virtual XElementPtr insertSiblingAfter( const std::string& newElementName ) override;
         virtual bool removeChild( const std::string& elementName ) override;
-        
+
         virtual XAttributePtr appendAttribute( const std::string& name ) override;
         virtual XAttributePtr prependAttribute( const std::string& name ) override;
         virtual void removeAttribute( const XAttributeIterator& iter ) override;

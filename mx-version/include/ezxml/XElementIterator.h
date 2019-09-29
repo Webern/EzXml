@@ -27,28 +27,27 @@ namespace ezxml
             XElementIterator& operator=( const XElementIterator& other );
             XElementIterator& operator=( XElementIterator&& other ) = default;
             ~XElementIterator() = default;
-            
+
             // STL Iterator Compliance
             typedef ptrdiff_t difference_type; // ???
             typedef XElement value_type;
             typedef XElement* pointer;
             typedef XElement& reference;
             typedef std::bidirectional_iterator_tag iterator_category;
-            
-            
+
             // Iterator operators
-            bool operator==(const XElementIterator& rhs) const;
-            bool operator!=(const XElementIterator& rhs) const;
-            
+            bool operator==( const XElementIterator& rhs ) const;
+            bool operator!=( const XElementIterator& rhs ) const;
+
             XElement& operator*() const;
             XElement* operator->() const;
-            
+
             const XElementIterator& operator++();
-            XElementIterator operator++(int);
-            
-            const XElementIterator& operator--();
-            XElementIterator operator--(int);
-            
+            XElementIterator operator++( int );
+
+            XElementIterator& operator--();
+            XElementIterator operator--( int );
+
             bool getIsPayloadNull() const;
             bool getSkipProcessingInstructions() const;
             void setSkipProcessingInstructions( bool inValue );
@@ -56,7 +55,7 @@ namespace ezxml
             // Reveal the private data member, violates
             // encapsulation but could not find a better way
             const XElementIterImplUP& reveal() const;
-            
+
         private:
             XElementIterImplUP myImpl;
         };

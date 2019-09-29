@@ -9,23 +9,18 @@
 namespace ezxml
 {
     PugiAttributeIterImpl::PugiAttributeIterImpl()
-    : myIter()
-    , myParentElement()
-    , myXDoc()
-    , myReturnableAttribute()
+            : myIter(), myParentElement(), myXDoc(), myReturnableAttribute()
     {
-        
+
     }
 
 
     PugiAttributeIterImpl::PugiAttributeIterImpl(
-        const pugi::xml_attribute_iterator& iter,
-        const pugi::xml_node& iterParentElement,
-        const XDocCPtr& parentXDoc )
-    : myIter( iter )
-    , myParentElement( iterParentElement )
-    , myXDoc( parentXDoc )
-    , myReturnableAttribute()
+            const pugi::xml_attribute_iterator& iter,
+            const pugi::xml_node& iterParentElement,
+            const XDocCPtr& parentXDoc
+    )
+            : myIter( iter ), myParentElement( iterParentElement ), myXDoc( parentXDoc ), myReturnableAttribute()
     {
         EZXML_CHECK_NODE_STATE;
         if( myParentElement.type() != pugi::node_element )
@@ -35,10 +30,11 @@ namespace ezxml
     }
 
 
-    bool PugiAttributeIterImpl::getIsPayloadNull() const
+    bool
+    PugiAttributeIterImpl::getIsPayloadNull() const
     {
         auto ptr = myXDoc.lock();
-        
+
         if( !ptr )
         {
             return true;
@@ -52,9 +48,10 @@ namespace ezxml
     }
 
 
-    bool PugiAttributeIterImpl::getIsEndIter() const
+    bool
+    PugiAttributeIterImpl::getIsEndIter() const
     {
-        if ( myIter == myParentElement.attributes_end() )
+        if( myIter == myParentElement.attributes_end() )
         {
             return true;
         }
@@ -63,13 +60,15 @@ namespace ezxml
     }
 
 
-    XAttributeIterImplUP PugiAttributeIterImpl::clone() const
+    XAttributeIterImplUP
+    PugiAttributeIterImpl::clone() const
     {
         return XAttributeIterImplUP{ new PugiAttributeIterImpl{ *this } };
     }
-    
-    
-    bool PugiAttributeIterImpl::equals( const XAttributeIterator& other ) const
+
+
+    bool
+    PugiAttributeIterImpl::equals( const XAttributeIterator& other ) const
     {
         const auto& otherImpl = other.reveal();
         if( !otherImpl )
@@ -83,16 +82,17 @@ namespace ezxml
         }
         return this->myIter == pugi->myIter;
     }
-    
-    
-    XAttribute& PugiAttributeIterImpl::getRef() const
+
+
+    XAttribute&
+    PugiAttributeIterImpl::getRef() const
     {
         if( getIsPayloadNull() )
         {
             EZXML_THROW_XNULL;
         }
 
-        if ( getIsEndIter() )
+        if( getIsEndIter() )
         {
             EZXML_THROW( "XAttributeIterator attempted to dereference an 'end' iterator" );
         }
@@ -100,16 +100,17 @@ namespace ezxml
         myReturnableAttribute = PugiAttribute{ *myIter, myParentElement, myXDoc.lock() };
         return myReturnableAttribute;
     }
-    
-    
-    XAttribute* PugiAttributeIterImpl::getPtr() const
+
+
+    XAttribute*
+    PugiAttributeIterImpl::getPtr() const
     {
         if( getIsPayloadNull() )
         {
             EZXML_THROW_XNULL;
         }
 
-        if ( getIsEndIter() )
+        if( getIsEndIter() )
         {
             EZXML_THROW( "XAttributeIterator attempted to dereference an 'end' iterator" );
         }
@@ -117,15 +118,18 @@ namespace ezxml
         myReturnableAttribute = PugiAttribute{ *myIter, myParentElement, myXDoc.lock() };
         return &myReturnableAttribute;
     }
-    
-    const PugiAttributeIterImpl& PugiAttributeIterImpl::increment()
+
+
+    const PugiAttributeIterImpl&
+    PugiAttributeIterImpl::increment()
     {
         ++myIter;
         return *this;
     }
-    
-    
-    const PugiAttributeIterImpl& PugiAttributeIterImpl::decrement()
+
+
+    const PugiAttributeIterImpl&
+    PugiAttributeIterImpl::decrement()
     {
         --myIter;
         return *this;

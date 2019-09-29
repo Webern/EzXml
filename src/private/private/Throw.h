@@ -29,7 +29,7 @@ throw std::runtime_error (                              \
 + std::string(") ")                                     \
 + std::string( __FUNCTION__ )                           \
 + std::string(": '")                                    \
-+ std::string( throw_error_message ) );                    
++ std::string( throw_error_message ) );
 #endif
 
 #ifndef EZXML_THROW_NULL

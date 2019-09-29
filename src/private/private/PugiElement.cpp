@@ -12,30 +12,31 @@
 namespace ezxml
 {
     PugiElement::PugiElement()
-    : myNode()
-    , myXDoc( XDocCPtr{ nullptr} )
+            : myNode(), myXDoc( XDocCPtr{ nullptr } )
     {
 
     }
 
 
     PugiElement::PugiElement(
-        const pugi::xml_node& node,
-        const XDocCPtr& xdoc )
-    : myNode( node )
-    , myXDoc( xdoc )
+            const pugi::xml_node& node,
+            const XDocCPtr& xdoc
+    )
+            : myNode( node ), myXDoc( xdoc )
     {
         EZXML_CHECK_NODE_ELEMENT;
     }
 
 
-    XElementPtr PugiElement::clone() const
+    XElementPtr
+    PugiElement::clone() const
     {
         return XElementPtr( new PugiElement{ myNode, myXDoc.lock() } );
     }
 
 
-    XElementType PugiElement::getType() const
+    XElementType
+    PugiElement::getType() const
     {
         if( getIsNull() )
         {
@@ -56,7 +57,8 @@ namespace ezxml
     }
 
 
-    bool PugiElement::getIsNull() const
+    bool
+    PugiElement::getIsNull() const
     {
         auto ptr = myXDoc.lock();
         if( !ptr )
@@ -71,7 +73,8 @@ namespace ezxml
     }
 
 
-    std::string PugiElement::getName() const
+    std::string
+    PugiElement::getName() const
     {
         if( getIsNull() )
         {
@@ -81,7 +84,8 @@ namespace ezxml
     }
 
 
-    std::string PugiElement::getValue() const
+    std::string
+    PugiElement::getValue() const
     {
         if( getIsNull() )
         {
@@ -91,7 +95,8 @@ namespace ezxml
     }
 
 
-    void PugiElement::setName( const std::string& name )
+    void
+    PugiElement::setName( const std::string& name )
     {
         if( getIsNull() )
         {
@@ -101,14 +106,15 @@ namespace ezxml
     }
 
 
-    void PugiElement::setValue( const std::string& value )
+    void
+    PugiElement::setValue( const std::string& value )
     {
         if( getIsNull() )
         {
             return;
         }
         XElementType xetype = getType();
-        
+
         if( xetype == XElementType::element )
         {
             EZXML_THROW( "the object cannot hold both elements and text" );
@@ -126,13 +132,15 @@ namespace ezxml
     }
 
 
-    XDocCPtr PugiElement::getDoc() const
+    XDocCPtr
+    PugiElement::getDoc() const
     {
         return myXDoc.lock();
     }
 
 
-    XElementPtr PugiElement::getParent() const
+    XElementPtr
+    PugiElement::getParent() const
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
@@ -140,7 +148,8 @@ namespace ezxml
     }
 
 
-    XElementIterator PugiElement::begin() const
+    XElementIterator
+    PugiElement::begin() const
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
@@ -148,7 +157,8 @@ namespace ezxml
     }
 
 
-    XElementIterator PugiElement::end() const
+    XElementIterator
+    PugiElement::end() const
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
@@ -156,7 +166,8 @@ namespace ezxml
     }
 
 
-    XAttributeIterator PugiElement::attributesBegin() const
+    XAttributeIterator
+    PugiElement::attributesBegin() const
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
@@ -164,47 +175,52 @@ namespace ezxml
     }
 
 
-    XAttributeIterator PugiElement::attributesEnd() const
+    XAttributeIterator
+    PugiElement::attributesEnd() const
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
         return XAttributeIterator( PugiAttributeIterImpl{ myNode.attributes_end(), myNode, myXDoc.lock() } );
     }
-    
-    
-    
-    XElementPtr PugiElement::appendChild( const std::string& name )
+
+
+    XElementPtr
+    PugiElement::appendChild( const std::string& name )
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
         return XElementPtr{ new PugiElement{ myNode.append_child( name.c_str() ), myXDoc.lock() } };
     }
-    
-    
-    XElementPtr PugiElement::prependChild( const std::string& name )
+
+
+    XElementPtr
+    PugiElement::prependChild( const std::string& name )
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
         return XElementPtr{ new PugiElement{ myNode.prepend_child( name.c_str() ), myXDoc.lock() } };
     }
-    
-    
-    XElementPtr PugiElement::insertSiblingAfter( const std::string& newElementName )
+
+
+    XElementPtr
+    PugiElement::insertSiblingAfter( const std::string& newElementName )
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
         auto newNode = myNode.parent().insert_child_after( newElementName.c_str(), myNode );
         return XElementPtr{ new PugiElement{ newNode, myXDoc.lock() } };
     }
-    
-    
-    bool PugiElement::removeChild( const std::string& elementName )
+
+
+    bool
+    PugiElement::removeChild( const std::string& elementName )
     {
         return myNode.remove_child( elementName.c_str() );
     }
 
 
-    XAttributePtr PugiElement::appendAttribute( const std::string & name )
+    XAttributePtr
+    PugiElement::appendAttribute( const std::string& name )
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
@@ -212,19 +228,21 @@ namespace ezxml
     }
 
 
-    XAttributePtr PugiElement::prependAttribute( const std::string & name )
+    XAttributePtr
+    PugiElement::prependAttribute( const std::string& name )
     {
         EZXML_CHECK_NULL_NODE;
         EZXML_CHECK_NODE_ELEMENT;
         return XAttributePtr{ new PugiAttribute{ myNode.prepend_attribute( name.c_str() ), myNode, myXDoc.lock() } };
     }
-    
-    
-    void  PugiElement::removeAttribute( const XAttributeIterator& iter )
+
+
+    void
+    PugiElement::removeAttribute( const XAttributeIterator& iter )
     {
         auto it = myNode.attributes_begin();
         auto e = myNode.attributes_end();
-        for( ; it != e; ++ it )
+        for( ; it != e; ++it )
         {
             if( iter->getName() == it->name() )
             {

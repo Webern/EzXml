@@ -15,7 +15,7 @@ namespace ezxml
     {
     public:
 
-        virtual ~XElementIterImpl() {};
+        virtual ~XElementIterImpl() = default;;
 
         virtual bool getIsPayloadNull() const = 0;
         virtual bool getIsEndIter() const = 0;

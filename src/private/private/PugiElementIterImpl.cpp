@@ -6,38 +6,35 @@
 namespace ezxml
 {
     PugiElementIterImpl::PugiElementIterImpl()
-    : myIter()
-    , myIterParent()
-            , mySkipProcessingInstructions{ true }
-    , myXDoc()
+            : myIter(), myIterParent(), mySkipProcessingInstructions{ true }, myXDoc()
     {
-        
+
     }
-    
-    
+
+
     PugiElementIterImpl::PugiElementIterImpl(
-        const pugi::xml_node_iterator& iter,
-        const pugi::xml_node& iterParent,
-        const XDocCPtr& parentDoc )
-    : myIter( iter )
-    , myIterParent( iterParent )
-            , mySkipProcessingInstructions{ true }
-    , myXDoc( parentDoc )
+            const pugi::xml_node_iterator& iter,
+            const pugi::xml_node& iterParent,
+            const XDocCPtr& parentDoc
+    )
+            : myIter( iter ), myIterParent( iterParent ), mySkipProcessingInstructions{ true }, myXDoc( parentDoc )
     {
 
     }
 
 
-    XElementIterImplUP PugiElementIterImpl::clone() const
+    XElementIterImplUP
+    PugiElementIterImpl::clone() const
     {
         return XElementIterImplUP{ new PugiElementIterImpl{ *this } };
     }
 
 
-    bool PugiElementIterImpl::getIsPayloadNull() const
+    bool
+    PugiElementIterImpl::getIsPayloadNull() const
     {
         auto ptr = myXDoc.lock();
-        
+
         if( !ptr )
         {
             return true;
@@ -51,9 +48,10 @@ namespace ezxml
     }
 
 
-    bool PugiElementIterImpl::getIsEndIter() const
+    bool
+    PugiElementIterImpl::getIsEndIter() const
     {
-        if ( myIter == myIterParent.end() )
+        if( myIter == myIterParent.end() )
         {
             return true;
         }
@@ -61,7 +59,9 @@ namespace ezxml
         return false;
     }
 
-    bool PugiElementIterImpl::getIsProcessingInstruction() const
+
+    bool
+    PugiElementIterImpl::getIsProcessingInstruction() const
     {
         if( this->getIsEndIter() )
         {
@@ -83,43 +83,46 @@ namespace ezxml
     }
 
 
-    bool PugiElementIterImpl::getSkipProcessingInstructions() const
+    bool
+    PugiElementIterImpl::getSkipProcessingInstructions() const
     {
         return mySkipProcessingInstructions;
     }
 
 
-    void PugiElementIterImpl::setSkipProcessingInstructions( bool inValue )
+    void
+    PugiElementIterImpl::setSkipProcessingInstructions( bool inValue )
     {
         mySkipProcessingInstructions = inValue;
     }
 
 
-    bool PugiElementIterImpl::equals( const XElementIterator& other ) const
+    bool
+    PugiElementIterImpl::equals( const XElementIterator& other ) const
     {
 
         auto& otherXImplPtr = other.reveal();
-        
+
         if( !otherXImplPtr )
         {
             return false;
         }
 
         auto otherPtr = dynamic_cast<PugiElementIterImpl*>( otherXImplPtr.get() );
-        
 
         return myIter == otherPtr->myIter;
     }
 
 
-    XElement& PugiElementIterImpl::getRef() const
+    XElement&
+    PugiElementIterImpl::getRef() const
     {
         if( getIsPayloadNull() )
         {
             EZXML_THROW_XNULL;
         }
 
-        if ( getIsEndIter() )
+        if( getIsEndIter() )
         {
             EZXML_THROW( "XElementIterator attempted to dereference an 'end' iterator" );
         }
@@ -129,14 +132,15 @@ namespace ezxml
     }
 
 
-    XElement* PugiElementIterImpl::getPtr() const
+    XElement*
+    PugiElementIterImpl::getPtr() const
     {
         if( getIsPayloadNull() )
         {
             EZXML_THROW_XNULL;
         }
 
-        if ( getIsEndIter() )
+        if( getIsEndIter() )
         {
             EZXML_THROW( "XElementIterator attempted to dereference an 'end' iterator" );
         }
@@ -146,21 +150,24 @@ namespace ezxml
     }
 
 
-    const PugiElementIterImpl& PugiElementIterImpl::increment()
+    const PugiElementIterImpl&
+    PugiElementIterImpl::increment()
     {
         ++myIter;
         return *this;
     }
 
 
-    const PugiElementIterImpl& PugiElementIterImpl::decrement()
+    const PugiElementIterImpl&
+    PugiElementIterImpl::decrement()
     {
         --myIter;
         return *this;
     }
 
 
-    pugi::xml_node_type PugiElementIterImpl::getPugiXmlNodeType() const
+    pugi::xml_node_type
+    PugiElementIterImpl::getPugiXmlNodeType() const
     {
         if( getIsPayloadNull() )
         {
@@ -170,7 +177,8 @@ namespace ezxml
     }
 
 
-    bool PugiElementIterImpl::hasTextData() const
+    bool
+    PugiElementIterImpl::hasTextData() const
     {
         if( getIsPayloadNull() )
         {
