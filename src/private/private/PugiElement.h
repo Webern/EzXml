@@ -1,9 +1,8 @@
-// Copyright (c) Matthew James Briggs
-
 #pragma once
 
 #include "ezxml/XElement.h"
 #include "private/pugixml.hpp"
+#include "ezxml/XElementIterator.h"
 
 #include <memory>
 
@@ -39,6 +38,8 @@ namespace ezxml
         virtual XElementType getType() const override;
         virtual bool getIsNull() const override;
 
+        virtual bool getIsProcessingInstruction() const override;
+
         virtual std::string getName() const override;
         virtual std::string getValue() const override;
 
@@ -47,8 +48,10 @@ namespace ezxml
 
         virtual XDocCPtr getDoc() const override;
         virtual XElementPtr getParent() const override;
+        virtual XElementPtr getNextSibling() const override;
 
         virtual XElementIterator begin() const override;
+        virtual XElementIterator beginWithProcessingInstructions() const override;
         virtual XElementIterator end() const override;
 
         virtual XAttributeIterator attributesBegin() const override;
@@ -67,5 +70,11 @@ namespace ezxml
     private:
         pugi::xml_node myNode;
         XDocCWPtr myXDoc;
+        pugi::xml_node_type myNodeType;
+        XElementIterator myEndIter;
+
+    private:
+        void update();
     };
 }
+

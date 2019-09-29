@@ -1,4 +1,6 @@
-// Copyright (c) Matthew James Briggs
+// MusicXML Class Library
+// Copyright (c) by Matthew James Briggs
+// Distributed under the MIT License
 
 #pragma once
 
@@ -10,9 +12,11 @@
 
 namespace ezxml
 {
+
     class PugiElementIterImpl : public XElementIterImpl
     {
     public:
+        ~PugiElementIterImpl() = default;
 
         PugiElementIterImpl();
 
@@ -22,10 +26,10 @@ namespace ezxml
                 const XDocCPtr& parentDoc
         );
 
-        PugiElementIterImpl( const PugiElementIterImpl& ) = default;
+        PugiElementIterImpl( const PugiElementIterImpl& );
         PugiElementIterImpl( PugiElementIterImpl&& ) = default;
 
-        PugiElementIterImpl& operator=( const PugiElementIterImpl& ) = default;
+        PugiElementIterImpl& operator=( const PugiElementIterImpl& );
         PugiElementIterImpl& operator=( PugiElementIterImpl&& ) = default;
 
         virtual bool getIsPayloadNull() const override;
@@ -50,8 +54,12 @@ namespace ezxml
     public:
         pugi::xml_node_iterator myIter;
         pugi::xml_node myIterParent;
-        bool mySkipProcessingInstructions;
         XDocCWPtr myXDoc;
-        mutable PugiElement myReturnableElement;
+        bool mySkipProcessingInstructions;
+        mutable std::unique_ptr<PugiElement> myReturnableElement;
+
+    private:
+        bool getIsBeginIter() const;
     };
 }
+

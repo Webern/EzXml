@@ -1,12 +1,14 @@
-// Copyright (c) Matthew James Briggs
-
 #include "private/PugiElementIterImpl.h"
 #include "private/XThrow.h"
 
 namespace ezxml
 {
     PugiElementIterImpl::PugiElementIterImpl()
-            : myIter(), myIterParent(), mySkipProcessingInstructions{ true }, myXDoc()
+            : myIter(),
+              myIterParent(),
+              myXDoc(),
+              mySkipProcessingInstructions{ true },
+              myReturnableElement{ nullptr }
     {
 
     }
@@ -17,9 +19,39 @@ namespace ezxml
             const pugi::xml_node& iterParent,
             const XDocCPtr& parentDoc
     )
-            : myIter( iter ), myIterParent( iterParent ), mySkipProcessingInstructions{ true }, myXDoc( parentDoc )
+            : myIter( iter ),
+              myIterParent( iterParent ),
+              myXDoc( parentDoc ),
+              mySkipProcessingInstructions{ true },
+              myReturnableElement{ nullptr }
     {
 
+    }
+
+
+    PugiElementIterImpl::PugiElementIterImpl( const PugiElementIterImpl& inOther )
+            : myIter( inOther.myIter ),
+              myIterParent( inOther.myIterParent ),
+              myXDoc( inOther.myXDoc ),
+              mySkipProcessingInstructions{ inOther.mySkipProcessingInstructions },
+              myReturnableElement{ inOther.myReturnableElement == nullptr ? nullptr : std::make_unique<PugiElement>(
+                      *inOther.myReturnableElement
+              ) }
+    {
+
+    }
+
+
+    PugiElementIterImpl&
+    PugiElementIterImpl::operator=( const PugiElementIterImpl& inOther )
+    {
+        myIter = inOther.myIter;
+        myIterParent = inOther.myIterParent;
+        myXDoc = inOther.myXDoc;
+        mySkipProcessingInstructions = inOther.mySkipProcessingInstructions;
+        myReturnableElement = inOther.myReturnableElement == nullptr ? nullptr
+                                                                     : std::make_unique<PugiElement>( *inOther.myReturnableElement );
+        return *this;
     }
 
 
@@ -39,7 +71,12 @@ namespace ezxml
         {
             return true;
         }
-        else if( myIterParent.type() != pugi::node_element )
+
+        const auto type = myIterParent.type();
+        const auto isElement = type == pugi::node_element;
+        const auto isProcessingInstruction = type == pugi::node_pi;
+
+        if( ( !isElement ) && ( !isProcessingInstruction ) )
         {
             return true;
         }
@@ -52,6 +89,18 @@ namespace ezxml
     PugiElementIterImpl::getIsEndIter() const
     {
         if( myIter == myIterParent.end() )
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+
+    bool
+    PugiElementIterImpl::getIsBeginIter() const
+    {
+        if( myIter == myIterParent.begin() )
         {
             return true;
         }
@@ -127,8 +176,8 @@ namespace ezxml
             EZXML_THROW( "XElementIterator attempted to dereference an 'end' iterator" );
         }
 
-        myReturnableElement = PugiElement{ *myIter, myXDoc.lock() };
-        return myReturnableElement;
+        myReturnableElement = std::make_unique<PugiElement>( *myIter, myXDoc.lock() );
+        return *myReturnableElement;
     }
 
 
@@ -145,8 +194,8 @@ namespace ezxml
             EZXML_THROW( "XElementIterator attempted to dereference an 'end' iterator" );
         }
 
-        myReturnableElement = PugiElement{ *myIter, myXDoc.lock() };
-        return &myReturnableElement;
+        myReturnableElement = std::make_unique<PugiElement>( *myIter, myXDoc.lock() );
+        return myReturnableElement.get();
     }
 
 
@@ -154,6 +203,19 @@ namespace ezxml
     PugiElementIterImpl::increment()
     {
         ++myIter;
+
+        if( mySkipProcessingInstructions )
+        {
+            bool isEnd = getIsEndIter();
+            bool isPi = getIsProcessingInstruction();
+
+            while( !isEnd && isPi )
+            {
+                ++myIter;
+                isEnd = getIsEndIter();
+                isPi = getIsProcessingInstruction();
+            }
+        }
         return *this;
     }
 
@@ -162,6 +224,19 @@ namespace ezxml
     PugiElementIterImpl::decrement()
     {
         --myIter;
+
+        if( mySkipProcessingInstructions )
+        {
+            bool isBegin = getIsBeginIter();
+            bool isPi = getIsProcessingInstruction();
+
+            while( !isBegin && isPi )
+            {
+                --myIter;
+                isBegin = getIsBeginIter();
+                isPi = getIsProcessingInstruction();
+            }
+        }
         return *this;
     }
 
@@ -186,4 +261,6 @@ namespace ezxml
         }
         return std::string{ myIter->child_value() }.size() > 0;
     }
+
 }
+

@@ -37,7 +37,7 @@ namespace ezxmltest
     }
 
 
-    std::string
+    inline std::string
     inpath()
     {
         auto r = root();

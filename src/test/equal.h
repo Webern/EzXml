@@ -1,3 +1,5 @@
+#pragma once
+
 #include "ezxml/ezxml.h"
 
 namespace ezxmltest
@@ -160,7 +162,7 @@ namespace ezxmltest
     }
 
 
-    std::string
+    inline std::string
     equal( const ezxml::XDocPtr& a, const ezxml::XDocPtr& b )
     {
         using namespace ezxml;

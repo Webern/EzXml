@@ -16,22 +16,17 @@ namespace ezxml
     namespace xml
     {
         PugiElement::PugiElement()
-        : myNode()
-        , myXDoc( XDocCPtr{ nullptr} )
-        , myNodeType{ pugi::xml_node_type::node_null }
-        , myEndIter{}
+                : myNode(), myXDoc( XDocCPtr{ nullptr } ), myNodeType{ pugi::xml_node_type::node_null }, myEndIter{}
         {
             update();
         }
 
 
         PugiElement::PugiElement(
-            const pugi::xml_node& node,
-            const XDocCPtr& xdoc )
-        : myNode( node )
-        , myXDoc( xdoc )
-        , myNodeType{ pugi::xml_node_type::node_null }
-        , myEndIter{}
+                const pugi::xml_node& node,
+                const XDocCPtr& xdoc
+        )
+                : myNode( node ), myXDoc( xdoc ), myNodeType{ pugi::xml_node_type::node_null }, myEndIter{}
         {
             update();
             const bool isElement = myNodeType == pugi::node_element;
@@ -44,13 +39,15 @@ namespace ezxml
         }
 
 
-        XElementPtr PugiElement::clone() const
+        XElementPtr
+        PugiElement::clone() const
         {
             return XElementPtr( new PugiElement{ myNode, myXDoc.lock() } );
         }
 
 
-        XElementType PugiElement::getType() const
+        XElementType
+        PugiElement::getType() const
         {
             if( getIsNull() )
             {
@@ -71,7 +68,8 @@ namespace ezxml
         }
 
 
-        bool PugiElement::getIsNull() const
+        bool
+        PugiElement::getIsNull() const
         {
             auto ptr = myXDoc.lock();
 
@@ -91,7 +89,8 @@ namespace ezxml
         }
 
 
-        bool PugiElement::getIsProcessingInstruction() const
+        bool
+        PugiElement::getIsProcessingInstruction() const
         {
             if( myNodeType == pugi::node_pi )
             {
@@ -102,7 +101,8 @@ namespace ezxml
         }
 
 
-        std::string PugiElement::getName() const
+        std::string
+        PugiElement::getName() const
         {
             if( getIsNull() )
             {
@@ -112,14 +112,15 @@ namespace ezxml
         }
 
 
-        std::string PugiElement::getValue() const
+        std::string
+        PugiElement::getValue() const
         {
             if( getIsNull() )
             {
                 return std::string{};
             }
 
-            if (getIsProcessingInstruction())
+            if( getIsProcessingInstruction() )
             {
                 return std::string{ myNode.value() };
             }
@@ -130,7 +131,8 @@ namespace ezxml
         }
 
 
-        void PugiElement::setName( const std::string& name )
+        void
+        PugiElement::setName( const std::string& name )
         {
             if( getIsNull() )
             {
@@ -141,14 +143,15 @@ namespace ezxml
         }
 
 
-        void PugiElement::setValue( const std::string& value )
+        void
+        PugiElement::setValue( const std::string& value )
         {
             if( getIsNull() )
             {
                 return;
             }
             XElementType xetype = getType();
-            
+
             if( xetype == XElementType::element )
             {
                 MX_THROW( "the object cannot hold both elements and text" );
@@ -170,13 +173,15 @@ namespace ezxml
         }
 
 
-        XDocCPtr PugiElement::getDoc() const
+        XDocCPtr
+        PugiElement::getDoc() const
         {
             return myXDoc.lock();
         }
 
 
-        XElementPtr PugiElement::getParent() const
+        XElementPtr
+        PugiElement::getParent() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -184,7 +189,8 @@ namespace ezxml
         }
 
 
-        XElementPtr PugiElement::getNextSibling() const
+        XElementPtr
+        PugiElement::getNextSibling() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -209,7 +215,8 @@ namespace ezxml
         }
 
 
-        XElementIterator PugiElement::begin() const
+        XElementIterator
+        PugiElement::begin() const
         {
             auto iter = beginWithProcessingInstructions();
             iter.setSkipProcessingInstructions( true );
@@ -225,7 +232,8 @@ namespace ezxml
         }
 
 
-        XElementIterator PugiElement::beginWithProcessingInstructions() const
+        XElementIterator
+        PugiElement::beginWithProcessingInstructions() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -250,7 +258,8 @@ namespace ezxml
         }
 
 
-        XElementIterator PugiElement::end() const
+        XElementIterator
+        PugiElement::end() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -258,7 +267,8 @@ namespace ezxml
         }
 
 
-        XAttributeIterator PugiElement::attributesBegin() const
+        XAttributeIterator
+        PugiElement::attributesBegin() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -266,16 +276,17 @@ namespace ezxml
         }
 
 
-        XAttributeIterator PugiElement::attributesEnd() const
+        XAttributeIterator
+        PugiElement::attributesEnd() const
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
             return XAttributeIterator( PugiAttributeIterImpl{ myNode.attributes_end(), myNode, myXDoc.lock() } );
         }
-        
-        
-        
-        XElementPtr PugiElement::appendChild( const std::string& name )
+
+
+        XElementPtr
+        PugiElement::appendChild( const std::string& name )
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -283,9 +294,10 @@ namespace ezxml
             update();
             return result;
         }
-        
-        
-        XElementPtr PugiElement::prependChild( const std::string& name )
+
+
+        XElementPtr
+        PugiElement::prependChild( const std::string& name )
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -294,8 +306,9 @@ namespace ezxml
             return result;
         }
 
-        
-        XElementPtr PugiElement::insertSiblingAfter( const std::string& newElementName )
+
+        XElementPtr
+        PugiElement::insertSiblingAfter( const std::string& newElementName )
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
@@ -304,9 +317,10 @@ namespace ezxml
             update();
             return result;
         }
-        
-        
-        bool PugiElement::removeChild( const std::string& elementName )
+
+
+        bool
+        PugiElement::removeChild( const std::string& elementName )
         {
             const auto result = myNode.remove_child( elementName.c_str() );
             update();
@@ -314,31 +328,36 @@ namespace ezxml
         }
 
 
-        XAttributePtr PugiElement::appendAttribute( const std::string & name )
+        XAttributePtr
+        PugiElement::appendAttribute( const std::string& name )
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
-            const auto result = XAttributePtr{ new PugiAttribute{ myNode.append_attribute( name.c_str() ), myNode, myXDoc.lock() } };
+            const auto result = XAttributePtr{
+                    new PugiAttribute{ myNode.append_attribute( name.c_str() ), myNode, myXDoc.lock() } };
             update();
             return result;
         }
 
 
-        XAttributePtr PugiElement::prependAttribute( const std::string & name )
+        XAttributePtr
+        PugiElement::prependAttribute( const std::string& name )
         {
             MX_CHECK_NULL_NODE;
             MX_CHECK_NODE_ELEMENT;
-            const auto result = XAttributePtr{ new PugiAttribute{ myNode.prepend_attribute( name.c_str() ), myNode, myXDoc.lock() } };
+            const auto result = XAttributePtr{
+                    new PugiAttribute{ myNode.prepend_attribute( name.c_str() ), myNode, myXDoc.lock() } };
             update();
             return result;
         }
-        
-        
-        void  PugiElement::removeAttribute( const XAttributeIterator& iter )
+
+
+        void
+        PugiElement::removeAttribute( const XAttributeIterator& iter )
         {
             auto it = myNode.attributes_begin();
             auto e = myNode.attributes_end();
-            for( ; it != e; ++ it )
+            for( ; it != e; ++it )
             {
                 if( iter->getName() == it->name() )
                 {
@@ -350,7 +369,8 @@ namespace ezxml
         }
 
 
-        void PugiElement::update()
+        void
+        PugiElement::update()
         {
             myNodeType = myNode.type();
             myEndIter = XElementIterator( PugiElementIterImpl{ myNode.end(), myNode, myXDoc.lock() } );
