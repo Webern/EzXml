@@ -3,11 +3,11 @@
 #pragma once
 
 // The absolute path to the root of the repository.
-#ifndef LY_ROOT
-#define LY_ROOT "/Users/mjb/repos/ezxml"
+#ifndef EZXML_ROOT
+#define EZXML_ROOT "/Users/brigmatt/repos/ezxml"
 #endif
 
 // The absolute path to the binary output directory.
-#ifndef LY_BIN
-#define LY_BIN "/Users/mjb/repos/ezxml/cmake-build-debug"
+#ifndef EZXML_BIN
+#define EZXML_BIN "/Users/brigmatt/repos/ezxml/cmake-build-debug"
 #endif

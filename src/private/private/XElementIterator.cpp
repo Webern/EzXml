@@ -5,30 +5,31 @@
 namespace ezxml
 {
     XElementIterator::XElementIterator()
-    : myImpl( nullptr )
-    {
-        
-    }
-    
-    
-    XElementIterator::XElementIterator( const XElementIterImpl& impl )
-    : myImpl( impl.clone() )
+            : myImpl( nullptr )
     {
 
     }
-    
-    
+
+
+    XElementIterator::XElementIterator( const XElementIterImpl& impl )
+            : myImpl( impl.clone() )
+    {
+
+    }
+
+
     XElementIterator::XElementIterator( const XElementIterator& other )
-    : myImpl( nullptr )
+            : myImpl( nullptr )
     {
         if( other.myImpl )
         {
             myImpl = other.myImpl->clone();
         }
     }
-    
-    
-    XElementIterator& XElementIterator::operator=( const XElementIterator& other )
+
+
+    XElementIterator&
+    XElementIterator::operator=( const XElementIterator& other )
     {
         if( other.myImpl )
         {
@@ -38,7 +39,8 @@ namespace ezxml
     }
 
 
-    bool XElementIterator::operator==(const XElementIterator& rhs) const
+    bool
+    XElementIterator::operator==( const XElementIterator& rhs ) const
     {
         if( !myImpl )
         {
@@ -46,9 +48,10 @@ namespace ezxml
         }
         return myImpl->equals( rhs );
     }
-    
-    
-    bool XElementIterator::operator!=( const XElementIterator& rhs ) const
+
+
+    bool
+    XElementIterator::operator!=( const XElementIterator& rhs ) const
     {
         if( !myImpl )
         {
@@ -56,9 +59,10 @@ namespace ezxml
         }
         return !myImpl->equals( rhs );
     }
-    
-    
-    XElement& XElementIterator::operator*() const
+
+
+    XElement&
+    XElementIterator::operator*() const
     {
         if( !myImpl )
         {
@@ -66,9 +70,10 @@ namespace ezxml
         }
         return myImpl->getRef();
     }
-    
-    
-    XElement* XElementIterator::operator->() const
+
+
+    XElement*
+    XElementIterator::operator->() const
     {
         if( !myImpl )
         {
@@ -76,9 +81,10 @@ namespace ezxml
         }
         return myImpl->getPtr();
     }
-    
-    
-    const XElementIterator& XElementIterator::operator++()
+
+
+    const XElementIterator&
+    XElementIterator::operator++()
     {
         if( myImpl )
         {
@@ -86,9 +92,10 @@ namespace ezxml
         }
         return *this;
     }
-    
-    
-    XElementIterator XElementIterator::operator++(int)
+
+
+    const XElementIterator
+    XElementIterator::operator++( int )
     {
         if( !myImpl )
         {
@@ -98,9 +105,10 @@ namespace ezxml
         myImpl->increment();
         return XElementIterator{ *temp };
     }
-    
-    
-    const XElementIterator& XElementIterator::operator--()
+
+
+    const XElementIterator&
+    XElementIterator::operator--()
     {
         if( myImpl )
         {
@@ -108,9 +116,10 @@ namespace ezxml
         }
         return *this;
     }
-    
-    
-    XElementIterator XElementIterator::operator--(int)
+
+
+    const XElementIterator
+    XElementIterator::operator--( int )
     {
         if( !myImpl )
         {
@@ -122,7 +131,8 @@ namespace ezxml
     }
 
 
-    bool XElementIterator::getIsPayloadNull() const
+    bool
+    XElementIterator::getIsPayloadNull() const
     {
         if( !myImpl )
         {
@@ -136,9 +146,24 @@ namespace ezxml
 
         return false;
     }
-    
-    
-    const XElementIterImplUP& XElementIterator::reveal() const
+
+
+    bool
+    XElementIterator::getSkipProcessingInstructions() const
+    {
+        return myImpl->getSkipProcessingInstructions();
+    }
+
+
+    void
+    XElementIterator::setSkipProcessingInstructions( bool inValue )
+    {
+        myImpl->setSkipProcessingInstructions( inValue );
+    }
+
+
+    const XElementIterImplUP&
+    XElementIterator::reveal() const
     {
         return myImpl;
     }
