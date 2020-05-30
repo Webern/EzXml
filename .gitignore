@@ -1,5 +1,5 @@
 .idea
 src/test/Path.h
-cmake-build-*/
+cmake-build-*
 testdata/out
 !testdata/out/.keep
