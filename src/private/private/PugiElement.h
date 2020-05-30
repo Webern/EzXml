@@ -1,9 +1,8 @@
-// Copyright (c) Matthew James Briggs
-
 #pragma once
 
 #include "ezxml/XElement.h"
 #include "private/pugixml.hpp"
+#include "ezxml/XElementIterator.h"
 
 #include <memory>
 
@@ -20,12 +19,11 @@ namespace ezxml
     {
     public:
         PugiElement();
-        
-        PugiElement(
-            const pugi::xml_node& node,
-            const XDocCPtr& xdoc );
 
-        ~PugiElement() = default;
+        PugiElement(
+                const pugi::xml_node& node,
+                const XDocCPtr& xdoc
+        );
 
         // copy
         PugiElement( const PugiElement& other ) = default;
@@ -40,6 +38,8 @@ namespace ezxml
         virtual XElementType getType() const override;
         virtual bool getIsNull() const override;
 
+        virtual bool getIsProcessingInstruction() const override;
+
         virtual std::string getName() const override;
         virtual std::string getValue() const override;
 
@@ -48,8 +48,10 @@ namespace ezxml
 
         virtual XDocCPtr getDoc() const override;
         virtual XElementPtr getParent() const override;
+        virtual XElementPtr getNextSibling() const override;
 
         virtual XElementIterator begin() const override;
+        virtual XElementIterator beginWithProcessingInstructions() const override;
         virtual XElementIterator end() const override;
 
         virtual XAttributeIterator attributesBegin() const override;
@@ -57,10 +59,10 @@ namespace ezxml
 
         virtual XElementPtr appendChild( const std::string& name ) override;
         virtual XElementPtr prependChild( const std::string& name ) override;
-        
+
         virtual XElementPtr insertSiblingAfter( const std::string& newElementName ) override;
         virtual bool removeChild( const std::string& elementName ) override;
-        
+
         virtual XAttributePtr appendAttribute( const std::string& name ) override;
         virtual XAttributePtr prependAttribute( const std::string& name ) override;
         virtual void removeAttribute( const XAttributeIterator& iter ) override;
@@ -68,5 +70,11 @@ namespace ezxml
     private:
         pugi::xml_node myNode;
         XDocCWPtr myXDoc;
+        pugi::xml_node_type myNodeType;
+        XElementIterator myEndIter;
+
+    private:
+        void update();
     };
 }
+

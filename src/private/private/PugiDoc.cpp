@@ -10,12 +10,16 @@
 namespace ezxml
 {
 
+    static constexpr unsigned int standardOptions =
+            pugi::parse_default | pugi::parse_declaration | pugi::parse_doctype | pugi::parse_pi;
+
+
     PugiDoc::PugiDoc()
-        : myDoc()
-        , myXmlVersion( DEFAULT_XML_VERSION )
-        , myEncoding( DEFAULT_ENCODING )
-        , myIsStandalone( false )
-        , myDoWriteBom( false )
+            : myDoc(),
+              myXmlVersion( DEFAULT_XML_VERSION ),
+              myEncoding( DEFAULT_ENCODING ),
+              myIsStandalone( false ),
+              myDoWriteBom( false )
     {
         std::istringstream is( R"(<?xml version="1.0" encoding="UTF-8"?><root/>)" );
         auto options = pugi::parse_default | pugi::parse_declaration | pugi::parse_doctype;
@@ -23,79 +27,63 @@ namespace ezxml
     }
 
     // Don't look at me, I'm ugly.
-    
-    void PugiDoc::loadStream( std::istream& is )
+
+    void
+    PugiDoc::loadStream( std::istream& is )
     {
-        auto options = pugi::parse_default | pugi::parse_declaration | pugi::parse_doctype;
-        auto parseResult = myDoc.load( is, options );
+        auto parseResult = myDoc.load( is, standardOptions );
         if( parseResult.status != pugi::status_ok )
         {
             std::stringstream ss;
             ss << "pugixml parsing failed - '";
-            switch ( parseResult.status )
+            switch( parseResult.status )
             {
-                case pugi::status_file_not_found:
-                    ss << "status_file_not_found'";
+                case pugi::status_file_not_found:ss << "status_file_not_found'";
                     break;
 
-                case pugi::status_io_error:
-                    ss << "status_io_error'";
+                case pugi::status_io_error:ss << "status_io_error'";
                     break;
-                    
-                case pugi::status_out_of_memory:
-                    ss << "status_out_of_memory'";
+
+                case pugi::status_out_of_memory:ss << "status_out_of_memory'";
                     break;
-                    
-                case pugi::status_internal_error:
-                    ss << "status_internal_error'";
+
+                case pugi::status_internal_error:ss << "status_internal_error'";
                     break;
-                    
-                case pugi::status_unrecognized_tag:
-                    ss << "status_unrecognized_tag'";
+
+                case pugi::status_unrecognized_tag:ss << "status_unrecognized_tag'";
                     break;
-                    
-                case pugi::status_bad_pi:
-                    ss << "status_bad_pi'";
+
+                case pugi::status_bad_pi:ss << "status_bad_pi'";
                     break;
-                    
-                case pugi::status_bad_comment:
-                    ss << "status_bad_comment'";
+
+                case pugi::status_bad_comment:ss << "status_bad_comment'";
                     break;
-                    
-                case pugi::status_bad_cdata:
-                    ss << "status_bad_cdata'";
+
+                case pugi::status_bad_cdata:ss << "status_bad_cdata'";
                     break;
-                    
-                case pugi::status_bad_doctype:
-                    ss << "status_bad_doctype'";
+
+                case pugi::status_bad_doctype:ss << "status_bad_doctype'";
                     break;
-                    
-                case pugi::status_bad_pcdata:
-                    ss << "status_bad_pcdata'";
+
+                case pugi::status_bad_pcdata:ss << "status_bad_pcdata'";
                     break;
-                    
-                case pugi::status_bad_start_element:
-                    ss << "status_bad_start_element'";
+
+                case pugi::status_bad_start_element:ss << "status_bad_start_element'";
                     break;
-                    
-                case pugi::status_bad_attribute:
-                    ss << "status_bad_attribute'";
+
+                case pugi::status_bad_attribute:ss << "status_bad_attribute'";
                     break;
-                    
-                case pugi::status_end_element_mismatch:
-                    ss << "status_end_element_mismatch'";
+
+                case pugi::status_end_element_mismatch:ss << "status_end_element_mismatch'";
                     break;
-                    
-                case pugi::status_append_invalid_root:
-                    ss << "status_append_invalid_root'";
+
+                case pugi::status_append_invalid_root:ss << "status_append_invalid_root'";
                     break;
-                    
-                case pugi::status_no_document_element:
-                    ss << "status_no_document_element'";
+
+                case pugi::status_no_document_element:ss << "status_no_document_element'";
                     break;
-                    
-                default:
-                    break;
+
+                default:break;
             }
             ss << " - " << parseResult.description();
             EZXML_THROW( ss.str() );
@@ -143,59 +131,55 @@ namespace ezxml
             }
         }
         parseXmlDeclarationValues();
-        
+
         // if the detected encoding doesn't match the encoding tag, take the actual encoding ??
-        switch ( parseResult.encoding )
+        switch( parseResult.encoding )
         {
             case pugi::encoding_auto:
             case pugi::encoding_utf8:
             case pugi::encoding_utf16_le:
-            case pugi::encoding_utf16_be:
-                setEncoding( Encoding::utfEight );
+            case pugi::encoding_utf16_be:setEncoding( Encoding::utfEight );
                 break;
-            case pugi::encoding_utf16:
-                setEncoding( Encoding::utfSixteen );
+            case pugi::encoding_utf16:setEncoding( Encoding::utfSixteen );
                 break;
             case pugi::encoding_utf32_le:
             case pugi::encoding_utf32_be:
             case pugi::encoding_utf32:
             case pugi::encoding_wchar:
             case pugi::encoding_latin1:
-            default:
-                setEncoding( Encoding::utfEight );
+            default:setEncoding( Encoding::utfEight );
                 break;
         }
     }
 
 
-    void PugiDoc::saveStream( std::ostream& os ) const
+    void
+    PugiDoc::saveStream( std::ostream& os ) const
     {
         auto pugiEncoding = pugi::encoding_utf8;
         switch( myEncoding )
         {
-            case Encoding::utfEight:
-                pugiEncoding = pugi::encoding_utf8;
+            case Encoding::utfEight:pugiEncoding = pugi::encoding_utf8;
                 break;
-            case Encoding::utfSixteen:
-                pugiEncoding = pugi::encoding_utf16;
+            case Encoding::utfSixteen:pugiEncoding = pugi::encoding_utf16;
                 break;
-            default:
-                pugiEncoding = pugi::encoding_utf8;
+            default:pugiEncoding = pugi::encoding_utf8;
                 break;
         }
         auto flags = pugi::format_indent;
-        
+
         if( myDoWriteBom )
         {
             flags = pugi::format_indent | pugi::format_write_bom;
         }
-        
+
         pugi::xml_writer_stream writer( os );
         myDoc.save( writer, "  ", flags, pugiEncoding );
     }
 
 
-    void PugiDoc::loadFile( const std::string& filename )
+    void
+    PugiDoc::loadFile( const std::string& filename )
     {
         std::ifstream infile( filename.c_str() );
         if( !infile.is_open() )
@@ -203,13 +187,14 @@ namespace ezxml
             std::string message = std::string{ "error opening input file: " } + filename;
             throw std::runtime_error( message );
         }
-        
+
         loadStream( infile );
         infile.close();
     }
 
 
-    void PugiDoc::saveFile( const std::string& filename ) const
+    void
+    PugiDoc::saveFile( const std::string& filename ) const
     {
         std::ofstream outfile( filename.c_str() );
         if( !outfile.is_open() )
@@ -217,19 +202,21 @@ namespace ezxml
             std::string message = std::string{ "error opening file for writing: " } + filename;
             throw std::runtime_error( message );
         }
-        
+
         saveStream( outfile );
         outfile.close();
     }
 
 
-    XmlVersion PugiDoc::getXmlVersion() const
+    XmlVersion
+    PugiDoc::getXmlVersion() const
     {
         return myXmlVersion;
     }
 
 
-    void PugiDoc::setXmlVersion( XmlVersion value )
+    void
+    PugiDoc::setXmlVersion( XmlVersion value )
     {
         if( value == XmlVersion::unknown )
         {
@@ -239,7 +226,7 @@ namespace ezxml
         {
             EZXML_THROW( "the xml document does not have an xml declaration - bad state" );
         }
-        else if ( myDoc.begin()->type() != pugi::node_declaration )
+        else if( myDoc.begin()->type() != pugi::node_declaration )
         {
             EZXML_THROW( "the first node in the xml document should be an xml declaration - bad state" );
         }
@@ -263,31 +250,34 @@ namespace ezxml
         }
         myXmlVersion = value;
     }
-    
-    
-    Encoding PugiDoc::getEncoding() const
+
+
+    Encoding
+    PugiDoc::getEncoding() const
     {
         return myEncoding;
     }
-    
-    
-    void PugiDoc::setEncoding( Encoding value )
+
+
+    void
+    PugiDoc::setEncoding( Encoding value )
     {
         if( value == Encoding::unknown )
         {
             EZXML_THROW( "the encoding cannot be unknown" );
         }
         auto attr = getXmlDeclarationAttribute( "encoding" );
-        if( ! compareCaseInsensitive( "encoding", attr.name() ) )
+        if( !compareCaseInsensitive( "encoding", attr.name() ) )
         {
             EZXML_THROW( "the 'encoding' attribute could not be found" );
         }
         attr.set_value( toString( value ).c_str() );
         myEncoding = value;
     }
-    
-    
-    bool PugiDoc::getHasStandaloneAttribute() const
+
+
+    bool
+    PugiDoc::getHasStandaloneAttribute() const
     {
         auto standalone = getXmlDeclarationAttribute( "standalone" );
         if( compareCaseInsensitive( standalone.name(), "standalone" ) )
@@ -296,20 +286,21 @@ namespace ezxml
         }
         return false;
     }
-    
-    
-    void PugiDoc::setHasStandaloneAttribute( bool value )
+
+
+    void
+    PugiDoc::setHasStandaloneAttribute( bool value )
     {
         bool isStandaloneCurrentlyPresent = getHasStandaloneAttribute();
         if( isStandaloneCurrentlyPresent && value )
         {
             return;
         }
-        else if ( !isStandaloneCurrentlyPresent && !value )
+        else if( !isStandaloneCurrentlyPresent && !value )
         {
             return;
         }
-        else if ( value )
+        else if( value )
         {
             auto xmlDeclarationNode = getXmlDeclarationNode();
             auto it = xmlDeclarationNode.attributes_begin();
@@ -341,7 +332,7 @@ namespace ezxml
             }
             return;
         }
-        else if ( !value )
+        else if( !value )
         {
             auto xmlDeclarationNode = getXmlDeclarationNode();
             for( auto it = xmlDeclarationNode.attributes_begin();
@@ -356,15 +347,17 @@ namespace ezxml
             }
         }
     }
-    
-    
-    bool PugiDoc::getIsStandalone() const
+
+
+    bool
+    PugiDoc::getIsStandalone() const
     {
         return myIsStandalone;
     }
-    
-    
-    void PugiDoc::setIsStandalone( bool value )
+
+
+    void
+    PugiDoc::setIsStandalone( bool value )
     {
         setHasStandaloneAttribute( true );
         auto attr = getXmlDeclarationAttribute( "standalone" );
@@ -378,9 +371,10 @@ namespace ezxml
         }
         myIsStandalone = value;
     }
-    
-    
-    bool PugiDoc::getHasDoctypeDeclaration() const
+
+
+    bool
+    PugiDoc::getHasDoctypeDeclaration() const
     {
         auto doctype = getDoctypeNode();
         if( doctype.type() != pugi::node_doctype )
@@ -389,9 +383,10 @@ namespace ezxml
         }
         return true;
     }
-    
-    
-    void PugiDoc::setHasDoctypeDeclaration( bool value )
+
+
+    void
+    PugiDoc::setHasDoctypeDeclaration( bool value )
     {
         bool isDoctypeCurrentlyPresent = getHasDoctypeDeclaration();
         if( value && isDoctypeCurrentlyPresent )
@@ -404,7 +399,7 @@ namespace ezxml
             // is not requested and doesn't exist, nothing to do
             return;
         }
-        else if ( value )
+        else if( value )
         {
             // add doctype
             if( myDoc.begin() == myDoc.end() )
@@ -419,7 +414,7 @@ namespace ezxml
             myDoc.insert_child_after( pugi::node_doctype, xmlDeclarationNode );
             return;
         }
-        else if ( !value )
+        else if( !value )
         {
             // delete doctype
             for( auto it = myDoc.begin(); it != myDoc.end(); ++it )
@@ -432,27 +427,30 @@ namespace ezxml
             }
         }
     }
-    
-    
-    std::string PugiDoc::getDoctypeValue() const
+
+
+    std::string
+    PugiDoc::getDoctypeValue() const
     {
         auto doctypeNode = getDoctypeNode();
         return doctypeNode.value();
     }
-    
-    
-    void PugiDoc::setDoctypeValue( const std::string& value )
+
+
+    void
+    PugiDoc::setDoctypeValue( const std::string& value )
     {
         setHasDoctypeDeclaration( true );
         auto doctypeNode = getDoctypeNode();
         doctypeNode.set_value( value.c_str() );
     }
-    
-    
-    XElementPtr PugiDoc::getRoot() const
+
+
+    XElementPtr
+    PugiDoc::getRoot() const
     {
         for( auto it = myDoc.begin();
-             it != myDoc.end(); ++ it )
+             it != myDoc.end(); ++it )
         {
             if( it->type() == pugi::node_element )
             {
@@ -461,24 +459,26 @@ namespace ezxml
         }
         return XElementPtr{};
     }
-    
-    
-    void PugiDoc::parseXmlDeclarationValues()
+
+
+    void
+    PugiDoc::parseXmlDeclarationValues()
     {
         parseXmlVersionFromDoc();
         parseEncodingFromDoc();
         parseStandalone();
     }
-    
-    
-    void PugiDoc::parseXmlVersionFromDoc()
+
+
+    void
+    PugiDoc::parseXmlVersionFromDoc()
     {
         auto xmlDeclaration = getXmlDeclarationNode();
         if( xmlDeclaration.type() != pugi::node_declaration )
         {
             EZXML_THROW( "the xml document must have an xml declaration as its first node" );
         }
-        
+
         auto version = xmlDeclaration.attribute( "version" );
         std::string value{ version.value() };
         if( value == "" )
@@ -487,12 +487,13 @@ namespace ezxml
             setXmlVersion( DEFAULT_XML_VERSION );
             return;
         }
-        
+
         myXmlVersion = parseXmlVersion( value );
     }
-    
-    
-    void PugiDoc::parseEncodingFromDoc()
+
+
+    void
+    PugiDoc::parseEncodingFromDoc()
     {
         auto attr = getXmlDeclarationAttribute( "encoding" );
         if( !compareCaseInsensitive( "encoding", attr.name() ) )
@@ -502,11 +503,12 @@ namespace ezxml
         myEncoding = parseEncoding( attr.value() );
         attr.set_value( toString( myEncoding ).c_str() );
     }
-    
-    
-    void PugiDoc::parseStandalone()
+
+
+    void
+    PugiDoc::parseStandalone()
     {
-        
+
         if( !getHasStandaloneAttribute() )
         {
             myIsStandalone = false;
@@ -520,15 +522,16 @@ namespace ezxml
         }
         myIsStandalone = false;
     }
-    
-    
-    pugi::xml_node PugiDoc::getDoctypeNode() const
+
+
+    pugi::xml_node
+    PugiDoc::getDoctypeNode() const
     {
         if( myDoc.empty() )
         {
             return pugi::xml_node{};
         }
-        
+
         auto childrenIter = myDoc.begin();
         if( childrenIter == myDoc.end() )
         {
@@ -543,19 +546,23 @@ namespace ezxml
         {
             return pugi::xml_node{};
         }
-        else return *childrenIter;
+        else
+        {
+            return *childrenIter;
+        }
     }
-    
-    
-    pugi::xml_node PugiDoc::getXmlDeclarationNode() const
+
+
+    pugi::xml_node
+    PugiDoc::getXmlDeclarationNode() const
     {
         if( myDoc.empty() )
         {
             return pugi::xml_node{};
         }
-        
+
         auto firstNode = myDoc.first_child();
-        
+
         if( firstNode.type() != pugi::node_declaration )
         {
             return pugi::xml_node{};
@@ -565,12 +572,13 @@ namespace ezxml
         {
             return pugi::xml_node{};
         }
-        
+
         return firstNode;
     }
 
-    
-    pugi::xml_attribute PugiDoc::getXmlDeclarationAttribute( const char* const name ) const
+
+    pugi::xml_attribute
+    PugiDoc::getXmlDeclarationAttribute( const char* const name ) const
     {
         auto declaration = getXmlDeclarationNode();
         if( declaration.type() != pugi::node_declaration )
@@ -579,9 +587,10 @@ namespace ezxml
         }
         return declaration.attribute( name );
     }
-    
-    
-    void PugiDoc::setDoWriteByteOrderMark( bool value )
+
+
+    void
+    PugiDoc::setDoWriteByteOrderMark( bool value )
     {
         myDoWriteBom = value;
     }

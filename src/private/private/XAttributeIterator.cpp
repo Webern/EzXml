@@ -5,30 +5,31 @@
 namespace ezxml
 {
     XAttributeIterator::XAttributeIterator()
-    : myImpl( nullptr )
+            : myImpl( nullptr )
     {
-        
+
     }
-    
-    
+
+
     XAttributeIterator::XAttributeIterator( const XAttributeIterImpl& impl )
-    : myImpl( impl.clone() )
+            : myImpl( impl.clone() )
     {
-        
+
     }
-    
-    
+
+
     XAttributeIterator::XAttributeIterator( const XAttributeIterator& other )
-    : myImpl( nullptr )
+            : myImpl( nullptr )
     {
         if( other.myImpl )
         {
             myImpl = other.myImpl->clone();
         }
     }
-    
-    
-    XAttributeIterator& XAttributeIterator::operator=( const XAttributeIterator& other )
+
+
+    XAttributeIterator&
+    XAttributeIterator::operator=( const XAttributeIterator& other )
     {
         if( other.myImpl )
         {
@@ -36,9 +37,10 @@ namespace ezxml
         }
         return *this;
     }
-    
-    
-    bool XAttributeIterator::operator==(const XAttributeIterator& rhs) const
+
+
+    bool
+    XAttributeIterator::operator==( const XAttributeIterator& rhs ) const
     {
         if( !myImpl )
         {
@@ -46,9 +48,10 @@ namespace ezxml
         }
         return myImpl->equals( rhs );
     }
-    
-    
-    bool XAttributeIterator::operator!=(const XAttributeIterator& rhs) const
+
+
+    bool
+    XAttributeIterator::operator!=( const XAttributeIterator& rhs ) const
     {
         if( !myImpl )
         {
@@ -56,9 +59,10 @@ namespace ezxml
         }
         return !myImpl->equals( rhs );
     }
-    
-    
-    XAttribute& XAttributeIterator::operator*() const
+
+
+    XAttribute&
+    XAttributeIterator::operator*() const
     {
         if( !myImpl )
         {
@@ -66,9 +70,10 @@ namespace ezxml
         }
         return myImpl->getRef();
     }
-    
-    
-    XAttribute* XAttributeIterator::operator->() const
+
+
+    XAttribute*
+    XAttributeIterator::operator->() const
     {
         if( !myImpl )
         {
@@ -76,9 +81,10 @@ namespace ezxml
         }
         return myImpl->getPtr();
     }
-    
-    
-    const XAttributeIterator& XAttributeIterator::operator++()
+
+
+    const XAttributeIterator&
+    XAttributeIterator::operator++()
     {
         if( myImpl )
         {
@@ -86,9 +92,10 @@ namespace ezxml
         }
         return *this;
     }
-    
-    
-    XAttributeIterator XAttributeIterator::operator++(int)
+
+
+    XAttributeIterator
+    XAttributeIterator::operator++( int )
     {
         if( !myImpl )
         {
@@ -98,9 +105,10 @@ namespace ezxml
         myImpl->increment();
         return XAttributeIterator{ *temp };
     }
-    
-    
-    const XAttributeIterator& XAttributeIterator::operator--()
+
+
+    const XAttributeIterator&
+    XAttributeIterator::operator--()
     {
         if( myImpl )
         {
@@ -108,9 +116,10 @@ namespace ezxml
         }
         return *this;
     }
-    
-    
-    XAttributeIterator XAttributeIterator::operator--(int)
+
+
+    XAttributeIterator
+    XAttributeIterator::operator--( int )
     {
         if( !myImpl )
         {
@@ -120,9 +129,10 @@ namespace ezxml
         myImpl->decrement();
         return XAttributeIterator{ *temp };
     }
-    
-    
-    const XAttributeIterImplUP& XAttributeIterator::reveal() const
+
+
+    const XAttributeIterImplUP&
+    XAttributeIterator::reveal() const
     {
         return myImpl;
     }
